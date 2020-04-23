@@ -1,0 +1,10 @@
+/index/kategori/akademik/
+/index/kategori/kesehatan/
+/index/kategori/bahasa/
+/index/kategori/persiapan-ujian/
+/index/kategori/agama/
+/index/kategori/it-dan-software/
+/index/kategori/pengembangan-diri/
+/index/kategori/bisnis-dan-marketing/
+/index/kategori/hobi-dan-gaya-hidup/
+/index/kategori/seni-dan-desain/

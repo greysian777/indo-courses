@@ -1,0 +1,1278 @@
+{
+    "data": [
+        {
+            "id": 72,
+            "category": 2,
+            "category_name": "KELASMU",
+            "type": 1,
+            "name": "Menjadi Fasilitator Belajar Guru Sekolahmu",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2020/01/YUK-BUKA-KELAS-DI-SEKOLAHMU-2.png",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2020/01/YUK-BUKA-KELAS-DI-SEKOLAHMU-2.png",
+            "abstract": "Selamat datang di Program Yuk Buka Kelas di Sekolah<strong>mu</strong> 2. Pada program ini, Anda akan belajar bagaimana cara menjadi fasilitator belajar di platform Sekolah<strong>mu</strong>. <br data-rich-text-line-break=\"true\" />Kelulusan Anda di program ini akan membantu Anda menjadi fasilitator belajar di platform Sekolah<strong>mu</strong>\n",
+            "sale_status": "",
+            "rating": "0.00",
+            "subject": [],
+            "program_tag": [],
+            "description": "\n<p>Selamat datang di Program Yuk Buka Kelas di Sekolah<strong>mu</strong> 2. Pada program ini, Anda akan belajar bagaimana cara menjadi fasilitator belajar di platform Sekolah<strong>mu</strong>. <br>Kelulusan Anda di program ini akan membantu Anda menjadi fasilitator belajar di platform Sekolah<strong>mu</strong> </p>\n",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [],
+            "slug": "kelasmu-menjadi-fasilitator-belajar-guru-sekolahmu",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": ""
+        },
+        {
+            "id": 68,
+            "category": 1,
+            "category_name": "UJIANMU",
+            "type": 1,
+            "name": "JAGO SOSIOLOGI 12",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/11/Sosiologi-07-2.png",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/11/Sosiologi-07-2.png",
+            "abstract": "Kuasai materi Sosiologi kelas 12 dan jadilah yang terbaik di kelasmu! Dengan mengikuti program ini, kamu akan belajar Sosiologi dengan cara yang seru dan menantang melalui video materi, infografis, dan latihan soal serta pembahasannya.\n",
+            "sale_status": "",
+            "rating": "0.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2789,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "description": "\n<p>Kuasai materi Sosiologi kelas 12 dan jadilah yang terbaik di kelasmu! Dengan mengikuti program ini, kamu akan belajar Sosiologi dengan cara yang seru dan menantang melalui video materi, infografis, dan latihan soal serta pembahasannya.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-1024x683.jpeg\" alt=\"\" class=\"wp-image-35432\" srcset=\"https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-1024x683.jpeg 1024w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-300x200.jpeg 300w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-768x512.jpeg 768w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-1536x1024.jpeg 1536w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-400x267.jpeg 400w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-540x360.jpeg 540w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-585x390.jpeg 585w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-860x573.jpeg 860w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-1170x780.jpeg 1170w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-100x67.jpeg 100w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-600x400.jpeg 600w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian.jpeg 1950w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<h2 class=\"has-vivid-cyan-blue-color has-text-color\">Deskripsi Program</h2>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-blue-background-color has-background\"><tbody><tr><td><strong>Tingkatan Kelas</strong></td><td>Kelas 12 SMA</td></tr><tr><td><strong>Mata Pelajaran</strong></td><td>Sosiologi</td></tr><tr><td><strong>Durasi</strong></td><td>1 tahun</td></tr><tr><td><strong>Jumlah Topik</strong></td><td>4 topik</td></tr></tbody></table></figure>\n\n\n<p><!--EndFragment--></p>",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 84,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "slug": "ujianmu-jago-sosiologi-12",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": ""
+        },
+        {
+            "id": 67,
+            "category": 1,
+            "category_name": "UJIANMU",
+            "type": 1,
+            "name": "JAGO SOSIOLOGI 11",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/11/Sosiologi-07-1.png",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/11/Sosiologi-07-1.png",
+            "abstract": "Kuasai materi Sosiologi kelas 11 dan jadilah yang terbaik di kelasmu! Dengan mengikuti program ini, kamu akan belajar Sosiologi dengan cara yang seru dan menantang melalui video materi, infografis, dan latihan soal serta pembahasannya.\n",
+            "sale_status": "",
+            "rating": "5.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2788,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "description": "\n<p>Kuasai materi Sosiologi kelas 11 dan jadilah yang terbaik di kelasmu! Dengan mengikuti program ini, kamu akan belajar Sosiologi dengan cara yang seru dan menantang melalui video materi, infografis, dan latihan soal serta pembahasannya.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-1024x683.jpeg\" alt=\"\" class=\"wp-image-35432\" srcset=\"https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-1024x683.jpeg 1024w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-300x200.jpeg 300w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-768x512.jpeg 768w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-1536x1024.jpeg 1536w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-400x267.jpeg 400w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-540x360.jpeg 540w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-585x390.jpeg 585w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-860x573.jpeg 860w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-1170x780.jpeg 1170w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-100x67.jpeg 100w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-600x400.jpeg 600w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian.jpeg 1950w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<h2 class=\"has-vivid-cyan-blue-color has-text-color\">Deskripsi Program</h2>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-blue-background-color has-background\"><tbody><tr><td><strong>Tingkatan Kelas</strong></td><td>Kelas 11 SMA</td></tr><tr><td><strong>Mata Pelajaran</strong></td><td>Sosiologi</td></tr><tr><td><strong>Durasi</strong></td><td>1 tahun</td></tr><tr><td><strong>Jumlah Topik</strong></td><td>5 topik</td></tr></tbody></table></figure>\n\n\n<p><!--EndFragment--></p>",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 83,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "slug": "ujianmu-jago-sosiologi-11",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": ""
+        },
+        {
+            "id": 63,
+            "category": 2,
+            "category_name": "KELASMU",
+            "type": 1,
+            "name": "Peran Guru dalam Pendidikan Abad ke-21",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2020/01/YUK-BUKA-KELAS-DI-SEKOLAHMU-1.png",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2020/01/YUK-BUKA-KELAS-DI-SEKOLAHMU-1.png",
+            "abstract": "Pada program ini, para teman guru diajak untuk sama-sama berrefleksi tentang bagaimana pendidikan yang berlangsung sekarang.\n",
+            "sale_status": "",
+            "rating": "0.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2691,
+                    "tag": "Guru",
+                    "title": "Guru"
+                }
+            ],
+            "description": "\n<p>Bagaimana sih pandangan para guru tentang pendidikan yang sekarang? Apakah pendidikan yang sekarang cukup untuk menunjang kompetensi yang harus dimiliki pada masa depan? </p>\n\n\n\n<p>Pada program ini, para teman guru diajak untuk sama-sama berefleksi tentang bagaimana pendidikan yang berlangsung sekarang. Setelah itu, membayangkan bagaimana peran guru dalam pendidikan di masa depan dan apa saja kekosongan yang perlu diisi untuk mempersiapkannya.</p>\n",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 17,
+                    "tag": "Guru",
+                    "title": "Guru"
+                }
+            ],
+            "slug": "kelasmu-peran-guru-dalam-pendidikan-abad-21",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": true,
+            "creator": ""
+        },
+        {
+            "id": 59,
+            "category": 2,
+            "category_name": "KELASMU",
+            "type": 1,
+            "name": "Contoh Aktivitas Online di Sekolahmu",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-08-at-7.52.14-PM-1.jpeg",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-08-at-7.52.14-PM-1.jpeg",
+            "abstract": "Selamat datang di Program Yuk Buka Kelas di Sekolahmu 3. Pada program ini, Anda dapat mencoba contoh-contoh aktivitas online yang ada di platform Sekolahmu.\n&nbsp;\n",
+            "sale_status": "",
+            "rating": "0.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2690,
+                    "tag": "Guru",
+                    "title": "Guru"
+                }
+            ],
+            "description": "\n<p>Selamat datang di Program Yuk Buka Kelas di Sekolahmu 3. Pada program ini, Anda dapat mencoba contoh-contoh aktivitas online yang ada di platform Sekolahmu.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"https://www.sekolah.mu/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-08-at-7.52.14-PM-1-1024x682.jpeg\" alt=\"\" class=\"wp-image-47577\" srcset=\"https://www.sekolah.mu/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-08-at-7.52.14-PM-1-1024x682.jpeg 1024w, https://www.sekolah.mu/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-08-at-7.52.14-PM-1-300x200.jpeg 300w, https://www.sekolah.mu/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-08-at-7.52.14-PM-1-768x512.jpeg 768w, https://www.sekolah.mu/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-08-at-7.52.14-PM-1-400x267.jpeg 400w, https://www.sekolah.mu/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-08-at-7.52.14-PM-1-540x360.jpeg 540w, https://www.sekolah.mu/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-08-at-7.52.14-PM-1-585x390.jpeg 585w, https://www.sekolah.mu/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-08-at-7.52.14-PM-1-860x573.jpeg 860w, https://www.sekolah.mu/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-08-at-7.52.14-PM-1-1170x780.jpeg 1170w, https://www.sekolah.mu/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-08-at-7.52.14-PM-1-100x67.jpeg 100w, https://www.sekolah.mu/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-08-at-7.52.14-PM-1-600x400.jpeg 600w, https://www.sekolah.mu/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-08-at-7.52.14-PM-1.jpeg 1280w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<p></p>\n",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 16,
+                    "tag": "Guru",
+                    "title": "Guru"
+                }
+            ],
+            "slug": "kelasmu-contoh-aktivitas-online-di-sekolahmu",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": true,
+            "creator": ""
+        },
+        {
+            "id": 58,
+            "category": 2,
+            "category_name": "KELASMU",
+            "type": 1,
+            "name": "Konsumsi Ramah Lingkungan – WWF",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/11/Badges-WWF-konsumsi-ramah-lingkungan.png",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/11/Badges-WWF-konsumsi-ramah-lingkungan.png",
+            "abstract": "Melalui program ini, WWF mengajak para pelajar untuk turut berkontribusi dalam menjaga lingkungan kita bersama. Kita akan belajar bareng tentang sustainable development goals (SDG) United Nations, dengan fokus kepada tujuan nomor 12: konsumsi dan produksi berkelanjutan. Hasil dari program ini adalah kampanye media sosial yang akan didesain oleh para pelajar dan langsung diterapkan untuk mengajak para konsumen untuk berkonsumsi dengan bertanggung jawab.\n",
+            "sale_status": "",
+            "rating": "0.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2787,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 2817,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                }
+            ],
+            "description": "\n<p>Melalui program ini, WWF mengajak para pelajar untuk turut berkontribusi dalam menjaga lingkungan kita bersama. Kita akan belajar bareng tentang <em>sustainable development goals </em>(SDG) United Nations, dengan fokus kepada tujuan nomor 12: konsumsi dan produksi berkelanjutan. Hasil dari program ini adalah kampanye media sosial yang akan didesain oleh para pelajar dan langsung diterapkan untuk mengajak para konsumen untuk berkonsumsi dengan bertanggung jawab. </p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"https://www.sekolah.mu/wp-content/uploads/2019/11/cover-wwf-konsumsi-ramah-lingkungan-1024x683.jpg\" alt=\"\" class=\"wp-image-71116\" srcset=\"https://www.sekolah.mu/wp-content/uploads/2019/11/cover-wwf-konsumsi-ramah-lingkungan-1024x683.jpg 1024w, https://www.sekolah.mu/wp-content/uploads/2019/11/cover-wwf-konsumsi-ramah-lingkungan-300x200.jpg 300w, https://www.sekolah.mu/wp-content/uploads/2019/11/cover-wwf-konsumsi-ramah-lingkungan-768x512.jpg 768w, https://www.sekolah.mu/wp-content/uploads/2019/11/cover-wwf-konsumsi-ramah-lingkungan-400x267.jpg 400w, https://www.sekolah.mu/wp-content/uploads/2019/11/cover-wwf-konsumsi-ramah-lingkungan-540x360.jpg 540w, https://www.sekolah.mu/wp-content/uploads/2019/11/cover-wwf-konsumsi-ramah-lingkungan-585x390.jpg 585w, https://www.sekolah.mu/wp-content/uploads/2019/11/cover-wwf-konsumsi-ramah-lingkungan-860x574.jpg 860w, https://www.sekolah.mu/wp-content/uploads/2019/11/cover-wwf-konsumsi-ramah-lingkungan-1170x780.jpg 1170w, https://www.sekolah.mu/wp-content/uploads/2019/11/cover-wwf-konsumsi-ramah-lingkungan-600x400.jpg 600w, https://www.sekolah.mu/wp-content/uploads/2019/11/cover-wwf-konsumsi-ramah-lingkungan.jpg 1531w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<h2 class=\"has-vivid-green-cyan-color has-text-color\">Tentang Program</h2>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-green-background-color has-background\"><tbody><tr><td><strong>Bidang Studi</strong></td><td>Ekonomi, Aktivis Sosial</td></tr><tr><td><strong>Kelas</strong></td><td>SMP &amp; SMA</td></tr><tr><td><strong>Kuota</strong></td><td>&#8211;</td></tr><tr><td><strong>Kredit</strong></td><td>0,4 SKS</td></tr></tbody></table></figure>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-green-background-color has-background\"><tbody><tr><td><strong>Kompetensi</strong></td><td><strong>Tujuan Program</strong></td></tr><tr><td>Cerdas</td><td>Memahami proses alur konsumsi pangan atau produk tertentu, mulai dari produksi sampai konsumsi</td></tr><tr><td>Reflektif</td><td>Mencetuskan rencana aksi individu dalam upaya memberi dampak baik bagi lingkungan hidup</td></tr><tr><td>Inovatif</td><td>Membangun rencana aksi dalam mengajak lingkungan sosial di sekitarnya untuk menjadi konsumen yang baik</td></tr></tbody></table></figure>\n\n\n\n<h2 class=\"has-vivid-green-cyan-color has-text-color\">Tentang WWF</h2>\n\n\n\n<p>WWF-Indonesia merupakan bagian independen dari jaringan dari WWF dan afiliasinya, organisasi pelestarian global yang bekerja di 100 negara di dunia. WWF Indonesia merupakan salah satu organisasi konservasi independen terbesar di Indonesia yang telah memulai kegiatannya sejak tahun 1962.</p>\n\n\n\n<p>Misi utama WWF Indonesia adalah melestarikan, merestorasi serta mengelola ekosistem dan keanekaragaman hayati Indonesia secara berkeadilan, demi keberlanjutan dan kesejahteraan seluruh rakyat Indonesia, yang dicapai melalui upaya:</p>\n\n\n\n<ul><li>Menerapkan dan mempromosikan praktik-praktik konservasi terbaik yang berbasis sains, inovasi dan kearifan tradisional</li><li>Memfasilitasi pemberdayaan kelompok-kelompok yang rentan, membangun koalisi dan bermitra dengan masyarakat madani, dan bekerjasama dengan pemerintah dan sektor swasta</li><li>Mempromosikan etika pelestarian yang kuat, kesadaran serta aksi konservasi di kalangan masyarakat Indonesia</li><li>Melakukan advokasi dan mempengaruhi kebijakan, hukum, dan institusi terkait untuk mendorong tata kelola lingkungan yang lebih baik</li></ul>\n",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 82,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 108,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                }
+            ],
+            "slug": "kelasmu-konsumsi-ramah-lingkungan-wwf",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": ""
+        },
+        {
+            "id": 57,
+            "category": 1,
+            "category_name": "UJIANMU",
+            "type": 1,
+            "name": "JAGO EKONOMI 10",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/11/Ekonomi-06.png",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/11/Ekonomi-06.png",
+            "abstract": "Kuasai materi Ekonomi kelas 10 dan jadilah yang terbaik di kelasmu! Dengan mengikuti program ini, kamu akan belajar Ekonomi dengan cara yang seru dan menantang melalui video materi, infografis, dan latihan soal serta pembahasannya.\n",
+            "sale_status": "",
+            "rating": "0.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2786,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "description": "\n<p>Kuasai materi Ekonomi kelas 10 dan jadilah yang terbaik di kelasmu! Dengan mengikuti program ini, kamu akan belajar  Ekonomi dengan cara yang seru dan menantang melalui video materi, infografis, dan latihan soal serta pembahasannya.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-1024x683.jpeg\" alt=\"\" class=\"wp-image-35432\" srcset=\"https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-1024x683.jpeg 1024w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-300x200.jpeg 300w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-768x512.jpeg 768w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-1536x1024.jpeg 1536w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-400x267.jpeg 400w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-540x360.jpeg 540w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-585x390.jpeg 585w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-860x573.jpeg 860w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-1170x780.jpeg 1170w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-100x67.jpeg 100w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian-600x400.jpeg 600w, https://www.sekolah.mu/wp-content/uploads/2019/12/ujian.jpeg 1950w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<h2 class=\"has-vivid-cyan-blue-color has-text-color\">Deskripsi Program</h2>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-blue-background-color has-background\"><tbody><tr><td><strong>Tingkatan Kelas</strong></td><td>Kelas 10 SMA</td></tr><tr><td><strong>Mata Pelajaran</strong></td><td>Ekonomi </td></tr><tr><td><strong>Durasi</strong></td><td>1 tahun</td></tr><tr><td><strong>Jumlah Topik</strong></td><td>8 topik</td></tr></tbody></table></figure>\n\n\n<p><!--EndFragment--></p>",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 81,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "slug": "ujianmu-jago-ekonomi-10",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": ""
+        },
+        {
+            "id": 56,
+            "category": 1,
+            "category_name": "UJIANMU",
+            "type": 1,
+            "name": "JAGO BIOLOGI 10",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/11/Biologi-04-1.png",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/11/Biologi-04-1.png",
+            "abstract": "Program ini akan membantumu menelusuri materi biologi kelas 10 dengan menantang sekaligus menyenangkan!\n",
+            "sale_status": "",
+            "rating": "0.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2785,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "description": "\n<p> Telusuri materi&nbsp;<strong>Biologi Kelas 10&nbsp;</strong>dengan menyenangkan dan menantang! Di program ini, kamu akan belajar dengan melihat video, rumus, dan latihan soal. Kalau saat belajar ada yang kamu tidak pahami, kamu bisa langsung tanya guru di&nbsp;<a href=\"https://www.sekolah.mu/tanyamu/\">Tanyamu</a>&nbsp;(hanya di aplikasi). </p>\n\n\n\n<div class=\"wp-block-image\"><figure class=\"aligncenter size-large\"><img src=\"https://www.sekolah.mu/wp-content/uploads/2019/11/biologi-10.png\" alt=\"\" class=\"wp-image-36548\" srcset=\"https://www.sekolah.mu/wp-content/uploads/2019/11/biologi-10.png 540w, https://www.sekolah.mu/wp-content/uploads/2019/11/biologi-10-300x200.png 300w, https://www.sekolah.mu/wp-content/uploads/2019/11/biologi-10-400x267.png 400w, https://www.sekolah.mu/wp-content/uploads/2019/11/biologi-10-100x67.png 100w\" sizes=\"(max-width: 540px) 100vw, 540px\" /></figure></div>\n\n\n\n<h2 class=\"has-vivid-cyan-blue-color has-text-color\">Deskripsi Program</h2>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"\"><tbody><tr><td><strong>Mata Pelajaran Terkait</strong></td><td>Biologi</td></tr><tr><td><strong>Tingkatan Kelas</strong></td><td>Kelas 10/SMA 1</td></tr><tr><td><strong>Durasi</strong></td><td>1 tahun</td></tr><tr><td><strong>Jumlah Topik</strong></td><td>9</td></tr></tbody></table></figure>\n",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 80,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "slug": "ujianmu-jago-biologi-10",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": ""
+        },
+        {
+            "id": 54,
+            "category": 3,
+            "category_name": "KARIERMU",
+            "type": 1,
+            "name": "Digital Marketer Muda – Think.Web",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/11/DIGITAL-MARKETER-THINKWEB-27.jpg",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/11/DIGITAL-MARKETER-THINKWEB-27.jpg",
+            "abstract": "'Duh, sebel deh! Kenapa sih lingkungan sosial kita begini, begitu?!', 'Kenapa sih fenomena ini itu yang meresahkan terjadi di mana-mana?!'. Kalau pertanyaan ini muncul di pikaran mu, artinya kamu punya kepekaan sosial yang tinggi. Sudah saatnya juga kamu mulai mengampanyekan keresahan yang dirasakan dan mengajak lingkungan sosial mu untuk bekerjasama mencari solusinya. Program ini akan mengajarkan bagaimana mengaplikasikan fakta-fakta yang ada di masyarakat kemudian dianalisa, hingga menjadi sebuah ajakan untuk mencari solusi permasalahan sosial bersama-sama. Kamu akan diajarkan langsung oleh tim dari <strong>Thinkweb</strong>, agensi digital yang berfokus pada dampak sosial.\n",
+            "sale_status": "",
+            "rating": "5.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2783,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 2815,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                }
+            ],
+            "description": "\n<p>&#8216;Duh, sebel deh! Kenapa sih ini begini, begitu?!&#8217;, &#8216;Kenapa ya fenomena ini itu terjadi di mana-mana?!&#8217;. Kalau pertanyaan ini muncul di pikaran mu, artinya kamu punya kepekaan sosial yang tinggi. Sudah saatnya juga kamu mulai mengampanyekan ide-ide dan mengajak lebih banyak orang. Program ini akan mengajarkan bagaimana mengaplikasikan fakta-fakta yang ada di masyarakat kemudian dianalisa, hingga menjadi sebuah ajakan untuk mencari solusi bersama-sama. Kamu akan diajarkan langsung oleh tim dari <strong>Thinkweb</strong>, agensi digital yang berfokus pada dampak sosial.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"https://www.sekolah.mu/wp-content/uploads/2019/12/DIGITAL-MARKETER-THINKWEB-27-1024x683.jpg\" alt=\"\" class=\"wp-image-35507\" srcset=\"https://www.sekolah.mu/wp-content/uploads/2019/12/DIGITAL-MARKETER-THINKWEB-27-1024x683.jpg 1024w, https://www.sekolah.mu/wp-content/uploads/2019/12/DIGITAL-MARKETER-THINKWEB-27-300x200.jpg 300w, https://www.sekolah.mu/wp-content/uploads/2019/12/DIGITAL-MARKETER-THINKWEB-27-768x512.jpg 768w, https://www.sekolah.mu/wp-content/uploads/2019/12/DIGITAL-MARKETER-THINKWEB-27-1536x1024.jpg 1536w, https://www.sekolah.mu/wp-content/uploads/2019/12/DIGITAL-MARKETER-THINKWEB-27-2048x1366.jpg 2048w, https://www.sekolah.mu/wp-content/uploads/2019/12/DIGITAL-MARKETER-THINKWEB-27-400x267.jpg 400w, https://www.sekolah.mu/wp-content/uploads/2019/12/DIGITAL-MARKETER-THINKWEB-27-540x360.jpg 540w, https://www.sekolah.mu/wp-content/uploads/2019/12/DIGITAL-MARKETER-THINKWEB-27-585x390.jpg 585w, https://www.sekolah.mu/wp-content/uploads/2019/12/DIGITAL-MARKETER-THINKWEB-27-860x573.jpg 860w, https://www.sekolah.mu/wp-content/uploads/2019/12/DIGITAL-MARKETER-THINKWEB-27-1170x780.jpg 1170w, https://www.sekolah.mu/wp-content/uploads/2019/12/DIGITAL-MARKETER-THINKWEB-27-100x67.jpg 100w, https://www.sekolah.mu/wp-content/uploads/2019/12/DIGITAL-MARKETER-THINKWEB-27-600x400.jpg 600w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<h2 class=\"has-text-color\" style=\"color:#1e73be\">Deskripsi Program</h2>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-blue-background-color has-background\"><tbody><tr><td><strong>Bidang Studi</strong></td><td>Bisnis dan Manajemen, Marketing, Ekonomi</td></tr><tr><td><strong>Tingkatan Kelas</strong></td><td> SMA/MA (16-18 tahun) </td></tr><tr><td><strong>Durasi</strong></td><td>1,5 bulan</td></tr><tr><td><strong>Tanggal Mulai</strong></td><td>15 Januari, 2020</td></tr></tbody></table></figure>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-blue-background-color has-background\"><thead><tr><th><strong>Kompetensi</strong></th><th class=\"has-text-align-center\" data-align=\"center\"><strong>Tujuan Pembelajaran</strong></th></tr></thead><tbody><tr><td><strong>Cerdas</strong></td><td class=\"has-text-align-center\" data-align=\"center\">Mengaplikasikan fakta, konsep dan terminologi dalam suatu tatanan  struktur sosial masyarakat untuk merancang suatu kampanye sosial </td></tr><tr><td><strong>Cerdas</strong></td><td class=\"has-text-align-center\" data-align=\"center\">Mengaplikasikan suatu pengetahuan dan memahami analisa dari suatu data dan pemodelan </td></tr><tr><td><strong>Berorientasi tindakan</strong></td><td class=\"has-text-align-center\" data-align=\"center\">Membuat perencanaan, implementasi dan mengevaluasi cara berkontribusi  terhadap pemberdayaan masyarakat di tingkat  lokal/nasional/regional/internasional </td></tr><tr><td><strong>Berorientasi tindakan</strong></td><td class=\"has-text-align-center\" data-align=\"center\">Berpikir secara komprehensif tentang permasalahan yang dihadapi dan  menawarkan solusi yang berdampak terhadap masyarakat atas permasalahan  tersebut </td></tr></tbody></table></figure>\n\n\n\n<h2 class=\"has-text-color\" style=\"color:#1e73a5\">Jadwal Pertemuan Luring</h2>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-blue-background-color has-background\"><tbody><tr><td><strong>Kelompok</strong></td><td><strong>Tanggal</strong></td><td><strong>Waktu</strong></td></tr><tr><td>Group A &amp; B</td><td>20 Januari 2020</td><td>09.00 &#8211; 14.00</td></tr><tr><td>Group A &amp; B</td><td>22 Januari 2020</td><td>09.00 &#8211; 14.00</td></tr><tr><td>Group A &amp; B</td><td>24 Januari 2020</td><td>09.00 &#8211; 14.00</td></tr><tr><td>Group A</td><td>27 Januari 2020</td><td>09.00 &#8211; 14.00</td></tr><tr><td>Group B</td><td>28 Januari 2020</td><td>09.00 &#8211; 14.00</td></tr><tr><td>Group A</td><td>29 Januari 2020</td><td>09.00 &#8211; 14.00</td></tr><tr><td>Group B</td><td>30 Januari 2020</td><td>09.00 &#8211; 14.00</td></tr><tr><td>Group A &amp; B</td><td>31 Januari 2020</td><td>14.00-18.00</td></tr></tbody></table></figure>\n\n\n\n<h2 class=\"has-text-color\" style=\"color:#1e73be\">Tentang Thinkweb</h2>\n\n\n\n<p> <strong><a href=\"http://think.web.id\">Think.Web</a> </strong>adalah sebuah agensi digital yang membantu  perusahaan dan organisasi sosial dalam memberikan dampak yang positif  bagi masyarakat melalui teknologi dan inovasi kreatif. </p>\n\n\n\n<h2 class=\"has-text-color\" style=\"color:#0e649a\">Lokasi Thinkweb</h2>\n\n\n<p><iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3959.0311282955163!2d106.79346874624862!3d-6.277198977512051!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f1741cf69e83%3A0xf6a2641df4b25632!2sThink.Web!5e0!3m2!1sen!2sid!4v1579262557209!5m2!1sen!2sid\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\"></iframe></p>\n",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 78,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 106,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                }
+            ],
+            "slug": "kariermu-digital-marketer-muda-thinkweb",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": ""
+        },
+        {
+            "id": 53,
+            "category": 2,
+            "category_name": "KELASMU",
+            "type": 1,
+            "name": "Ayo Berakhlak Mulia",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/12/AYO-BERAKHLAK-MULIA.jpg",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/12/AYO-BERAKHLAK-MULIA.jpg",
+            "abstract": "Buat teman - teman yang senantiasa ingin memperbaiki diri dalam keseharian kita, Yuk bergabung bersama Pak Hendri dari SMPN 211 dalam kelas ini. Kita akan mempelajari bagaimana pengertian dan contoh nyata dari perilaku Ikhlas, Sabar dan Pemaaf serta bagaimana cara mengimani ketaatan Malaikat. Kalian juga punya kesempatan untuk berkolaborasi dengan teman-teman dari sekolah lain lho. Tunggu apalagi, segera daftar ya.\n",
+            "sale_status": "",
+            "rating": "5.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2782,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "description": "\n<figure class=\"wp-block-image size-large\"><img src=\"https://www.sekolah.mu/wp-content/uploads/2019/12/rachid-oucharia-2d1-OSHkHXM-unsplash-1024x683.jpg\" alt=\"\" class=\"wp-image-35038\" srcset=\"https://www.sekolah.mu/wp-content/uploads/2019/12/rachid-oucharia-2d1-OSHkHXM-unsplash-1024x683.jpg 1024w, https://www.sekolah.mu/wp-content/uploads/2019/12/rachid-oucharia-2d1-OSHkHXM-unsplash-300x200.jpg 300w, https://www.sekolah.mu/wp-content/uploads/2019/12/rachid-oucharia-2d1-OSHkHXM-unsplash-768x512.jpg 768w, https://www.sekolah.mu/wp-content/uploads/2019/12/rachid-oucharia-2d1-OSHkHXM-unsplash-1536x1024.jpg 1536w, https://www.sekolah.mu/wp-content/uploads/2019/12/rachid-oucharia-2d1-OSHkHXM-unsplash-2048x1365.jpg 2048w, https://www.sekolah.mu/wp-content/uploads/2019/12/rachid-oucharia-2d1-OSHkHXM-unsplash-400x267.jpg 400w, https://www.sekolah.mu/wp-content/uploads/2019/12/rachid-oucharia-2d1-OSHkHXM-unsplash-540x360.jpg 540w, https://www.sekolah.mu/wp-content/uploads/2019/12/rachid-oucharia-2d1-OSHkHXM-unsplash-585x390.jpg 585w, https://www.sekolah.mu/wp-content/uploads/2019/12/rachid-oucharia-2d1-OSHkHXM-unsplash-860x573.jpg 860w, https://www.sekolah.mu/wp-content/uploads/2019/12/rachid-oucharia-2d1-OSHkHXM-unsplash-1170x780.jpg 1170w, https://www.sekolah.mu/wp-content/uploads/2019/12/rachid-oucharia-2d1-OSHkHXM-unsplash-100x67.jpg 100w, https://www.sekolah.mu/wp-content/uploads/2019/12/rachid-oucharia-2d1-OSHkHXM-unsplash-600x400.jpg 600w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<p>Buat teman &#8211; teman yang senantiasa ingin memperbaiki diri dalam keseharian kita, Yuk bergabung bersama Pak Hendri dari SMPN 211 dalam kelas ini. Kita akan mempelajari bagaimana  pengertian dan contoh nyata dari perilaku Ikhlas, Sabar dan Pemaaf serta bagaimana cara mengimani ketaatan Malaikat. Kalian juga punya kesempatan untuk berkolaborasi dengan teman-teman dari sekolah lain lho. Tunggu apalagi, segera daftar ya.</p>\n\n\n\n<h2 class=\"has-luminous-vivid-orange-color has-text-color\"><strong>Tentang Program </strong></h2>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-pink-background-color has-background\"><tbody><tr><td><strong>Mata Pelajaran Terkait</strong></td><td>Agama Islam</td></tr><tr><td><strong>Tingkat/Kelas</strong></td><td>SMP/MTs kelas 7 &#8211; 13 tahun</td></tr><tr><td><strong>Durasi Program</strong></td><td>3 Bulan</td></tr><tr><td><strong>Full Online/Blended</strong></td><td>Blended</td></tr><tr><td><strong>Kuota</strong></td><td>80</td></tr><tr><td><strong>Tanggal Mulai</strong></td><td>13 Januari 2020</td></tr></tbody></table></figure>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-pink-background-color has-background\"><tbody><tr><td><strong>Kompetensi</strong></td><td><strong>Tujuan Program</strong></td></tr><tr><td>Komitmen<br></td><td>Menunjukkan perilaku ikhlas, sabar, dan pemaaf<br></td></tr><tr><td>Berprinsip<br></td><td>Meneladani ketaatan malaikat-malaikat Allah</td></tr></tbody></table></figure>\n\n\n\n<p><br></p>\n",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 77,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "slug": "kelasmu-ayo-berakhlak-mulia",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": ""
+        },
+        {
+            "id": 52,
+            "category": 2,
+            "category_name": "KELASMU",
+            "type": 1,
+            "name": "Merancang Program Belajar di Sekolahmu",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2020/02/YUK-BUKA-KELAS-DI-SEKOLAHMU-5.png",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2020/02/YUK-BUKA-KELAS-DI-SEKOLAHMU-5.png",
+            "abstract": "Ayo, buat program belajar terintegrasi digital dan berkontribusi tingkatkan kualitas pendidikan di Indonesia bersama Sekolah.mu",
+            "sale_status": "",
+            "rating": "5.00",
+            "subject": [
+                {
+                    "id": 413,
+                    "subject_id": 123,
+                    "subject_name": "Pendidikan & Pelatihan"
+                },
+                {
+                    "id": 414,
+                    "subject_id": 122,
+                    "subject_name": "Digital & Teknologi"
+                },
+                {
+                    "id": 415,
+                    "subject_id": 121,
+                    "subject_name": "Teknologi Terapan"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 2680,
+                    "tag": "Guru",
+                    "title": "Guru"
+                }
+            ],
+            "description": "<style type=\"text/css\"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style>\n<p>Pelajari karakteristik kurikulum Sekolahmu dan jadilah bagian dari ekosistem pendidikan masa depan di Indonesia</p>\n<h2>Tujuan Program</h2>\n<p>Peserta membuat rancangan program belajar (charter) di platform Sekolahmu. Charter yang sudah dibuat akan dikurasi oleh tim Sekolahmu. Charter yang lolos kurasi akan diberikan kesempatan untuk membuka kelas di platform Sekolahmu.</p>\n<h2>Peruntukan Program</h2>\n<ul>\n<li>Guru</li>\n<li>pelatih</li>\n<li>instruktur</li>\n<li>praktisi</li>\n<li>ahli</li>\n<li>akademisi</li>\n<li>masyarakat umum yang ingin membuka kelas di sekolahmu</li>\n</ul>\n<h2>Prasyarat mengikuti kelas</h2>\n<p>Tidak ada kelas prasyarat untuk mengikuti kelas ini.</p>\n<h2>Durasi program</h2>\n<p>300 menit (5 jam)<br />\nDengan waktu pengerjaan yang fleksibel (tidak harus setiap hari)</p>\n<h2>Materi Belajar</h2>\n<ol>\n<li>Yuk disrupsi pembelajaran di Indonesia bersama sekolahmu</li>\n<li>Belajar menggunakan platform sekolahmu versi alpha</li>\n<li>Pendidikan berbasis kompetensi</li>\n<li>Personalisasi untuk mencapai tujuan belajar</li>\n<li>Integrasi digital dalam pengajaran</li>\n<li>5M Sebagai Cara Pengajaran</li>\n<li>Merancang program belajar di sekolahmu</li>\n</ol>\n",
+            "price_normal": "50000.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 15,
+                    "tag": "Guru",
+                    "title": "Guru"
+                },
+                {
+                    "id": 661,
+                    "tag": "Profesional",
+                    "title": "Profesional"
+                }
+            ],
+            "slug": "kelasmu-merancang-program-belajar-di-sekolahmu",
+            "linier": true,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": "Sekolah.mu"
+        },
+        {
+            "id": 51,
+            "category": 3,
+            "category_name": "KARIERMU",
+            "type": 1,
+            "name": "YouTuber Muda – Think.Web",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/12/YOUTUBER-MUDA.jpg",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/12/YOUTUBER-MUDA.jpg",
+            "abstract": "ThinkWeb adalah salah satu pelopor perusahaan digital agency di Indonesia. Berbekal pengalaman bekerjasama dengan perusahaan ternama dalam mendesain media komunikasi yang efektif, ThinkWeb berhasil menjadi bagian dari suksesnya menciptakan dampak dalam marketing, branding maupun sosial. Nah sekarang kalian punya kesempatan untuk belajar langsung dari ahlinya dalam membuat youtube channel yang keren. Jadi tunggu apalagi ayo segera daftar.\n",
+            "sale_status": "",
+            "rating": "5.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2678,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 2679,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 2814,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                }
+            ],
+            "description": "\n<p> ThinkWeb adalah salah satu pelopor perusahaan digital agency di  Indonesia.  Berbekal pengalaman bekerjasama dengan perusahaan ternama  dalam mendesain media komunikasi yang efektif, ThinkWeb berhasil menjadi  bagian dari suksesnya menciptakan dampak dalam marketing, branding  maupun sosial. Nah sekarang kalian punya kesempatan untuk belajar  langsung dari ahlinya dalam membuat youtube channel yang keren. Jadi  tunggu apalagi ayo segera daftar. </p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"https://www.sekolah.mu/wp-content/uploads/2019/12/YOUTUBER-MUDA-1024x683.jpg\" alt=\"\" class=\"wp-image-35581\" srcset=\"https://www.sekolah.mu/wp-content/uploads/2019/12/YOUTUBER-MUDA-1024x683.jpg 1024w, https://www.sekolah.mu/wp-content/uploads/2019/12/YOUTUBER-MUDA-300x200.jpg 300w, https://www.sekolah.mu/wp-content/uploads/2019/12/YOUTUBER-MUDA-768x512.jpg 768w, https://www.sekolah.mu/wp-content/uploads/2019/12/YOUTUBER-MUDA-1536x1024.jpg 1536w, https://www.sekolah.mu/wp-content/uploads/2019/12/YOUTUBER-MUDA-2048x1366.jpg 2048w, https://www.sekolah.mu/wp-content/uploads/2019/12/YOUTUBER-MUDA-400x267.jpg 400w, https://www.sekolah.mu/wp-content/uploads/2019/12/YOUTUBER-MUDA-540x360.jpg 540w, https://www.sekolah.mu/wp-content/uploads/2019/12/YOUTUBER-MUDA-585x390.jpg 585w, https://www.sekolah.mu/wp-content/uploads/2019/12/YOUTUBER-MUDA-860x573.jpg 860w, https://www.sekolah.mu/wp-content/uploads/2019/12/YOUTUBER-MUDA-1170x780.jpg 1170w, https://www.sekolah.mu/wp-content/uploads/2019/12/YOUTUBER-MUDA-100x67.jpg 100w, https://www.sekolah.mu/wp-content/uploads/2019/12/YOUTUBER-MUDA-600x400.jpg 600w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<h2 class=\"has-vivid-cyan-blue-color has-text-color\"><strong>Tentang Program</strong></h2>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-blue-background-color has-background\"><tbody><tr><td><strong>Mata Pelajaran Terkait</strong></td><td>Komunikasi, Bahasa Indonesia, Sosiologi, Perfilman, Musik</td></tr><tr><td><strong>Tingkat/Kelas</strong></td><td>SMA/MA Kelas 10 </td></tr><tr><td><strong>Durasi Program</strong></td><td>1,5 bulan</td></tr><tr><td><strong>Tanggal Mulai</strong></td><td>15 Januari, 2020</td></tr><tr><td><strong>Tanggal Pertemuan Luring</strong></td><td>Senin, 20 Januari 2020 (semua siswa)<br>Rabu, 22 Januari 2020 (semua siswa)<br>Jumat, 24 Januari 2020 (semua siswa)<br><br>Senin, 27 Januari 2020 (Grup A)<br>Selasa, 28 Januari 2020 (Grup B)<br>Rabu, 29 Januari 2020 (Grup A)<br>Kamis, 30 Januari 2020 (Grup B)<br>Jumat, 31 Januari 2020 (Semua siswa)<br></td></tr></tbody></table></figure>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-blue-background-color has-background\"><tbody><tr><td><strong>Kompetensi</strong></td><td><strong>Tujuan Program</strong></td></tr><tr><td>komunikatif</td><td>Mengenal profil dari sasaran komunikasi, sehingga bisa menentukan cara berkomunikasi yang tepat.</td></tr><tr><td>cerdas</td><td>Mampu melakukan eksplorasi, mencoba hal baru dan kemudian melakukan iterasi.</td></tr><tr><td>berkomitmen</td><td>Mampu menata diri untuk dapat secara konsisten menyelesaikan pekerjaan-pekerjaan.</td></tr><tr><td>reflektif</td><td>Mendapatkan pemahaman mengenai karir YouTuber.</td></tr></tbody></table></figure>\n\n\n\n<h2 class=\"has-vivid-cyan-blue-color has-text-color\"><strong>Tentang </strong>Fasilitator</h2>\n\n\n\n<p> Ramya Prajna, memulai ThinkWeb, sebuah Agensi Digital &amp; Teknologi pada masa awal industri digital di Indonesia. Dengan semangat menumbuhkan kewirausahaan dan industri digital di Indonesia, Ramya membuat Pranala sebagai perusahaan induk untuk Think.Web, Talk Link (Digital PR), Inmotion (pengembang teknologi), Digify (Pengembang web &amp; sistem), Wooz.in (online-offline engagement), Trys (agensi media sosial) &amp; Happiness (agensi komunikasi).</p>\n\n\n\n<p>Setelah bertahun-tahun mendukung brand untuk membuat dampak kepada penonton dan pelanggan, saat ini Ramya memperluas fokusnya pada isu sosial untuk memberikan dampak menjadi dunia yang lebih baik.</p>\n\n\n\n<p></p>\n",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 13,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 14,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 105,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                }
+            ],
+            "slug": "kariermu-youtuber-muda-thinkweb",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": ""
+        },
+        {
+            "id": 49,
+            "category": 2,
+            "category_name": "KELASMU",
+            "type": 1,
+            "name": "Voice of the Youth",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/11/VOICE-OF-THE-YOUTH-1.jpg",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/11/VOICE-OF-THE-YOUTH-1.jpg",
+            "abstract": "Discover your voice in this riveting course with Bu Puti Hamid of Sekolah Cikal Serpong. In this English Acquisition Course, you will learn how to effectively express your ideas and have the opportunity to showcase your voice in the exciting \"Voice of the Youth\" exhibition event.\n",
+            "sale_status": "",
+            "rating": "0.00",
+            "subject": [
+                {
+                    "id": 1,
+                    "subject_id": 91,
+                    "subject_name": "Bahasa Inggris"
+                },
+                {
+                    "id": 2,
+                    "subject_id": 91,
+                    "subject_name": "Bahasa Inggris"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 2677,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "description": "<h2><strong>Voice of the Youth</strong></h2><p>Discover your voice in this riveting course with Bu Puti Hamid of Sekolah Cikal Serpong. In this English Acquisition Course, you will learn how to effectively express your ideas and have the opportunity to showcase your voice in the exciting “Voice of the Youth” exhibition event.</p><h2>About the Program</h2><figure class=\"table\"><table><tbody><tr><td><strong>Subject</strong></td><td>English Acquisition</td></tr><tr><td><strong>Level</strong></td><td>Year 10/SMA 1</td></tr><tr><td><strong>Duration</strong></td><td>3 months</td></tr><tr><td><strong>Full Online/Blended</strong></td><td>Blended</td></tr><tr><td><strong>Quota</strong></td><td>20</td></tr><tr><td><strong>Start Date</strong></td><td>January 13 2020</td></tr></tbody></table></figure><p>&nbsp;</p><figure class=\"table\"><table><tbody><tr><td><strong>Competency</strong></td><td><strong>Learning Objective</strong></td></tr><tr><td>Intelligent</td><td>Analyze and draw conclusions from information, main ideas and supporting details in social and academic situations.</td></tr><tr><td>Intelligent</td><td>Engage with spoken and visual text by analyzing ideas, opinions and attitudes, and by making a response to the text based on personal experiences and opinions from a global perspective.</td></tr><tr><td>Intelligent</td><td>Analyze conventions.</td></tr><tr><td>Communicative</td><td>Engage in rehearsed and unrehearsed exchanges to share ideas on a range of topics of personal and global significance.</td></tr><tr><td>Communicative</td><td>Express ideas, opinions, and feelings, and communicate information in a wide range of situations.</td></tr><tr><td>Communicative</td><td>Communicate with a sense of register, purpose, and style.</td></tr><tr><td>Reflective</td><td>Use planning, drafting, editing, and reviewing processes independently.</td></tr></tbody></table></figure><h2>About the Instructor</h2><p>Bu Puti Hamid is an experienced Vice Principal with a demonstrated history of working in the education management industry. She is skilled in Research, K-12 Education, Elementary and Middle School Education, Literacy, and Educational Leadership, with a Bachelor of Social and Political Science (S.Sos) focused in Social Welfare from Universitas Indonesia (UI).</p>",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 12,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "slug": "kelasmu-voice-of-the-youth",
+            "linier": null,
+            "max_quota": 1,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": ""
+        },
+        {
+            "id": 48,
+            "category": 2,
+            "category_name": "KELASMU",
+            "type": 1,
+            "name": "Transformasi Energi",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/11/TRANSFORMASI-ENERGI.jpg",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/11/TRANSFORMASI-ENERGI.jpg",
+            "abstract": "Program ini mengajak kalian siswa kelas 10 untuk berkolaborasi membuat kontribusi langsung kepada lingkungan sekitar dengan mengaplikasikan Ilmu Fisika. Kalian akan diajak mengikuti pembelajaran yang menarik dan terlibat dalam proses penggunaan energi terbarukan. Jangan tunda lagi, yuk gabung bersama Ibu Yenis di program Transformasi Energi!\n",
+            "sale_status": "",
+            "rating": "0.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2779,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "description": "\n<p>Program ini mengajak kalian siswa kelas 10  untuk berkolaborasi membuat kontribusi langsung kepada lingkungan sekitar dengan mengaplikasikan Ilmu Fisika. Kalian akan diajak mengikuti pembelajaran yang menarik dan  terlibat dalam proses penggunaan energi terbarukan. Jangan tunda lagi, yuk gabung bersama Ibu Yenis di program Transformasi Energi!</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"https://www.sekolah.mu/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-25-at-15.35.23-1024x576.jpeg\" alt=\"\" class=\"wp-image-29647\" srcset=\"https://www.sekolah.mu/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-25-at-15.35.23-1024x576.jpeg 1024w, https://www.sekolah.mu/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-25-at-15.35.23-300x169.jpeg 300w, https://www.sekolah.mu/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-25-at-15.35.23-768x432.jpeg 768w, https://www.sekolah.mu/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-25-at-15.35.23-400x225.jpeg 400w, https://www.sekolah.mu/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-25-at-15.35.23-540x304.jpeg 540w, https://www.sekolah.mu/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-25-at-15.35.23-860x484.jpeg 860w, https://www.sekolah.mu/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-25-at-15.35.23-1170x658.jpeg 1170w, https://www.sekolah.mu/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-25-at-15.35.23-100x56.jpeg 100w, https://www.sekolah.mu/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-25-at-15.35.23-600x338.jpeg 600w, https://www.sekolah.mu/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-25-at-15.35.23.jpeg 1280w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<h2><strong>Tentang Program </strong></h2>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"\"><tbody><tr><td><strong>Mata Pelajaran Terkait</strong></td><td><br>IPA, Fisika </td></tr><tr><td><strong>Tingkat/Kelas</strong></td><td>10<br></td></tr><tr><td><strong>Durasi Program</strong></td><td>3 Bulan<br></td></tr><tr><td><strong>Full Online/Blended</strong></td><td>Blended<br></td></tr><tr><td><strong>Kuota</strong></td><td>30 siswa</td></tr><tr><td><strong>Tanggal Mulai</strong></td><td>13 Januari 2020</td></tr></tbody></table></figure>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"\"><tbody><tr><td><strong>Kompetensi</strong></td><td><strong>Tujuan Program</strong></td></tr><tr><td>Cerdas<br></td><td><br><em>Menganalisis konsep energi, usaha (kerja) hubungan usaha (kerja) dan perubahan energi, hukum kekekalan energi serta penerapannya dalam peristiwa hari-hari</em>.<br></td></tr><tr><td>Inovatif<br></td><td><br><em>Menerapkan metode ilmiah untuk mengajukan gagasan penyelesaian masalah gerak dalam kehidupan sehari-hari yang berkaitan dengan konsep energi, usaha (kerja) dan hukum kekekalan energi</em>.<br></td></tr></tbody></table></figure>\n\n\n\n<h2><strong>Tentang  Ibu Yenis</strong></h2>\n\n\n\n<p>Ibu Yenis sudah mengajar lebih dari 17 tahun. Sebelum bergabung di SMAN 60, Ibu Yenis pernah mengajar Fisika di sekolah Bakti Mulya. Selalu mengajak siswa berperan aktif dalam pembelajaran dan mendorong siswa melakukan ekperimen yang inovatif adalah ciri khas pengajarannya.</p>\n\n\n\n<h2><strong>Tentang Sekolah </strong></h2>\n\n\n\n<p>SMAN 60 <br></p>\n",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 76,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "slug": "kelasmu-transformasi-energi",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": ""
+        },
+        {
+            "id": 45,
+            "category": 3,
+            "category_name": "KARIERMU",
+            "type": 1,
+            "name": "Shoe Designer Muda – Brodo",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/12/SHOE-DESIGNER-BRODO.jpg",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/12/SHOE-DESIGNER-BRODO.jpg",
+            "abstract": "Ingin tahu gimana caranya mendesain sepatu? Yuk ikuti program ini. Dalam program ini, shoe designer dari BRODO akan membagikan pengalamannya dalam mendesain sepatu, mulai dari sepatu formal dan casual, hingga sneakers dan boots.\n",
+            "sale_status": "",
+            "rating": "0.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2777,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 2812,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                }
+            ],
+            "description": "\n<p>Ingin tahu gimana caranya mendesain sepatu? Yuk ikuti program ini. Dalam program ini, shoe designer dari <strong>BRODO </strong>akan membagikan pengalamannya dalam mendesain sepatu, mulai dari sepatu formal dan&nbsp;<em>casual</em>, hingga&nbsp;<em>sneakers</em> dan&nbsp;<em>boots</em>.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"https://www.sekolah.mu/wp-content/uploads/2019/12/SHOE-DESIGNER-BRODO-1024x683.jpg\" alt=\"\" class=\"wp-image-35577\" srcset=\"https://www.sekolah.mu/wp-content/uploads/2019/12/SHOE-DESIGNER-BRODO-1024x683.jpg 1024w, https://www.sekolah.mu/wp-content/uploads/2019/12/SHOE-DESIGNER-BRODO-300x200.jpg 300w, https://www.sekolah.mu/wp-content/uploads/2019/12/SHOE-DESIGNER-BRODO-768x512.jpg 768w, https://www.sekolah.mu/wp-content/uploads/2019/12/SHOE-DESIGNER-BRODO-1536x1024.jpg 1536w, https://www.sekolah.mu/wp-content/uploads/2019/12/SHOE-DESIGNER-BRODO-2048x1366.jpg 2048w, https://www.sekolah.mu/wp-content/uploads/2019/12/SHOE-DESIGNER-BRODO-400x267.jpg 400w, https://www.sekolah.mu/wp-content/uploads/2019/12/SHOE-DESIGNER-BRODO-540x360.jpg 540w, https://www.sekolah.mu/wp-content/uploads/2019/12/SHOE-DESIGNER-BRODO-585x390.jpg 585w, https://www.sekolah.mu/wp-content/uploads/2019/12/SHOE-DESIGNER-BRODO-860x573.jpg 860w, https://www.sekolah.mu/wp-content/uploads/2019/12/SHOE-DESIGNER-BRODO-1170x780.jpg 1170w, https://www.sekolah.mu/wp-content/uploads/2019/12/SHOE-DESIGNER-BRODO-100x67.jpg 100w, https://www.sekolah.mu/wp-content/uploads/2019/12/SHOE-DESIGNER-BRODO-600x400.jpg 600w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<h3 class=\"has-vivid-cyan-blue-color has-text-color\">Deskripsi Program</h3>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-blue-background-color has-background\"><tbody><tr><td><strong>Mata Pelajaran</strong></td><td>Seni Budaya dan Prakarya</td></tr><tr><td><strong>Tingkatan Kelas</strong></td><td>SMA/MA &#8211; 16 &#8211; 18 tahun </td></tr><tr><td><strong>Durasi</strong></td><td>1,5 bulan</td></tr><tr><td><strong>Tanggal Mulai</strong></td><td>15 Januari, 2020</td></tr></tbody></table></figure>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-blue-background-color has-background\"><tbody><tr><td><strong>Kompetensi</strong></td><td class=\"has-text-align-center\" data-align=\"center\"><strong>Tujuan Pembelajaran</strong></td></tr><tr><td>Inovatif</td><td class=\"has-text-align-center\" data-align=\"center\">Mendemonstrasikan kemampuan melakukan eksplorasi ide.</td></tr><tr><td>Komunikatif</td><td class=\"has-text-align-center\" data-align=\"center\">Mengekspresikan konsep, ide dan makna melalui media komunikasi visual.</td></tr><tr><td>Komunikatif</td><td class=\"has-text-align-center\" data-align=\"center\">Mengemukakan ide dengan jelas dan masuk akal secara persuasif.</td></tr></tbody></table></figure>\n\n\n\n<h2 class=\"has-text-color\" style=\"color:#1e73be\">Jadwal Pertemuan Tatap Muka</h2>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-blue-background-color has-background\"><tbody><tr><td><strong>Pertemuan ke-</strong></td><td><strong>Tanggal &amp; Waktu</strong></td><td><strong>Tempat</strong></td></tr><tr><td>1</td><td>Selasa, 21 Januari 2020 <br>(Jam 10.30)</td><td><strong>Brodo</strong><br>Jl. Kemang Selatan VIII No.64B, <br>Kec. Mampang Prpt. Jakarta<br>(<a href=\"https://goo.gl/maps/sdQ5mfwSorc6wiL1A\">Lihat lokasi di Google Map</a>)</td></tr><tr><td>2</td><td>Rabu, 22 Januari 2020<br>(Jam 10.00 &#8211; 16.00</td><td> <strong>Brodo</strong><br>Jl. Kemang Selatan VIII No.64B, <br>Kec. Mampang Prpt. Jakarta<br>(<a href=\"https://goo.gl/maps/sdQ5mfwSorc6wiL1A\">Lihat lokasi di Google Map</a>) </td></tr><tr><td>3</td><td>Kamis, 23 Januari 2020<br>(Jam 10.00 &#8211; 16.00) </td><td><strong>Brodo</strong><br>Jl. Kemang Selatan VIII No.64B, <br>Kec. Mampang Prpt. Jakarta<br>(<a href=\"https://goo.gl/maps/sdQ5mfwSorc6wiL1A\">Lihat lokasi di Google Map</a>) </td></tr><tr><td>4</td><td>Jumat, 24 Januari 2020 <br>(Jam 10.00 &#8211; 16.00)</td><td> <strong>Brodo</strong><br>Jl. Kemang Selatan VIII No.64B, <br>Kec. Mampang Prpt. Jakarta<br>(<a href=\"https://goo.gl/maps/sdQ5mfwSorc6wiL1A\">Lihat lokasi di Google Map</a>)  </td></tr><tr><td>5</td><td>Rabu, 29 Januari 2020<br>(Jam 10.00 &#8211; 16.00)  </td><td><strong>Brodo</strong><br>Jl. Kemang Selatan VIII No.64B, <br>Kec. Mampang Prpt. Jakarta<br>(<a href=\"https://goo.gl/maps/sdQ5mfwSorc6wiL1A\">Lihat lokasi di Google Map</a>) </td></tr><tr><td> 6</td><td>Kamis, 30 Januari 2020<br>(Jam 10.00 &#8211; 16.00)   </td><td><strong>Brodo</strong><br>Jl. Kemang Selatan VIII No.64B, <br>Kec. Mampang Prpt. Jakarta<br>(<a href=\"https://goo.gl/maps/sdQ5mfwSorc6wiL1A\">Lihat lokasi di Google Map</a>) </td></tr><tr><td>7</td><td>Jumat, 31 Januari 2020<br>(Jam 10.00 &#8211; 16.00)   </td><td><strong>Brodo<br></strong>Jl. Kemang Selatan VIII No.64B, <br>Kec. Mampang Prpt. Jakarta<br>(<a href=\"https://goo.gl/maps/sdQ5mfwSorc6wiL1A\">Lihat lokasi di Google Map</a>) </td></tr></tbody></table></figure>\n\n\n\n<h3 class=\"has-vivid-cyan-blue-color has-text-color\">Tentang BRODO</h3>\n\n\n\n<p><strong>BRODO </strong>adalah perusahaan sepatu  pertama di Indonesia yang menawarkan lini produk beragam dengan kualitas tinggi, mulai dari sepatu formal dan <em>casual,</em> serta <em>sneakers,</em> dan <em>boots.</em>  </p>\n\n\n\n<p>Dari masa ke masa kami telah menjadi&nbsp;<em>lifestyle brand</em>&nbsp;yang mendukung tiap orang untuk menghidupi keyakinan dan prinsip mereka. Semua yang&nbsp;<strong>BRODO</strong>&nbsp;lakukan selalu berdasar pada keyakinan bahwa semua orang berhak untuk mengejar tujuan hidupnya masing-masing, dan mewujudkan kisah hidup yang epik. </p>\n",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 74,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 103,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                }
+            ],
+            "slug": "kariermu-shoe-designer-muda-brodo",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": ""
+        },
+        {
+            "id": 44,
+            "category": 2,
+            "category_name": "KELASMU",
+            "type": 1,
+            "name": "Serunya Belajar Karate",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/11/SERUNYA-BELAJAR-KARATE.jpg",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/11/SERUNYA-BELAJAR-KARATE.jpg",
+            "abstract": "Temukan bakat seni bela diri mu bersama teman-teman melalui kelas karate yang diajarkan langsung oleh Atlet Karate Nasional, Ibu Meida! Program belajar ini membantu kamu memahami tentang konsep latihan peningkatan derajat kebugaran jasmani dan membuat mu dapat mempraktikkan gerak spesifik semu seni bela diri karate. Selain badan menjadi bugar dan sehat, tentunya kalian juga bisa mempunyai keahlian baru dalam seni bela diri. Bahkan bisa jadi Atlet Nasional Karate juga, lho!\n",
+            "sale_status": "",
+            "rating": "0.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2776,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "description": "\n<p>Temukan bakat seni bela diri mu bersama teman-teman melalui kelas karate yang akan diajarkan langsung oleh Atlet Karate Nasional,  Ibu Meida! Program belajar ini membantu kamu memahami tentang konsep latihan peningkatan derajat kebugaran jasmani dan membuat mu dapat mempraktikkan gerak spesifik semu seni bela diri karate. Selain badan menjadi bugar dan sehat, tentunya kalian juga bisa mempunyai keahlian baru dalam seni bela diri. Bahkan bisa jadi Atlet Nasional Karate juga, lho! </p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"https://www.sekolah.mu/wp-content/uploads/2019/11/SERUNYA-BELAJAR-KARATE-1024x682.jpg\" alt=\"\" class=\"wp-image-35917\" srcset=\"https://www.sekolah.mu/wp-content/uploads/2019/11/SERUNYA-BELAJAR-KARATE-1024x682.jpg 1024w, https://www.sekolah.mu/wp-content/uploads/2019/11/SERUNYA-BELAJAR-KARATE-300x200.jpg 300w, https://www.sekolah.mu/wp-content/uploads/2019/11/SERUNYA-BELAJAR-KARATE-768x512.jpg 768w, https://www.sekolah.mu/wp-content/uploads/2019/11/SERUNYA-BELAJAR-KARATE-1536x1024.jpg 1536w, https://www.sekolah.mu/wp-content/uploads/2019/11/SERUNYA-BELAJAR-KARATE-2048x1365.jpg 2048w, https://www.sekolah.mu/wp-content/uploads/2019/11/SERUNYA-BELAJAR-KARATE-400x267.jpg 400w, https://www.sekolah.mu/wp-content/uploads/2019/11/SERUNYA-BELAJAR-KARATE-540x360.jpg 540w, https://www.sekolah.mu/wp-content/uploads/2019/11/SERUNYA-BELAJAR-KARATE-585x390.jpg 585w, https://www.sekolah.mu/wp-content/uploads/2019/11/SERUNYA-BELAJAR-KARATE-860x573.jpg 860w, https://www.sekolah.mu/wp-content/uploads/2019/11/SERUNYA-BELAJAR-KARATE-1170x780.jpg 1170w, https://www.sekolah.mu/wp-content/uploads/2019/11/SERUNYA-BELAJAR-KARATE-100x67.jpg 100w, https://www.sekolah.mu/wp-content/uploads/2019/11/SERUNYA-BELAJAR-KARATE-600x400.jpg 600w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<h2 class=\"has-vivid-cyan-blue-color has-text-color\">Deskripsi Program</h2>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-blue-background-color has-background\"><tbody><tr><td><strong>Mata Pelajaran</strong></td><td>Olahraga</td></tr><tr><td><strong>Tingkatan Kelas</strong></td><td>7 SMP/MTs (13 tahun)</td></tr><tr><td><strong>Durasi</strong></td><td>2 bulan</td></tr><tr><td><strong>Full Online/Blended</strong></td><td>Blended</td></tr><tr><td><strong>Kuota</strong></td><td>80</td></tr><tr><td><strong>Tanggal Mulai</strong></td><td>13 Januari 2020</td></tr></tbody></table></figure>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-blue-background-color has-background\"><tbody><tr><td><strong>Kompetensi</strong></td><td><strong>Tujuan Pembelajaran</strong></td></tr><tr><td>Mandiri</td><td> Memahami konsep latihan peningkatan derajat kebugaran jasmani yang terkait dengan kesehatan </td></tr><tr><td>Komunikatif</td><td> Mempraktikkan gerak spesifik semu seni bela diri karate </td></tr></tbody></table></figure>\n",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 73,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "slug": "kelasmu-serunya-belajar-karate",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": ""
+        },
+        {
+            "id": 42,
+            "category": 2,
+            "category_name": "KELASMU",
+            "type": 1,
+            "name": "Ragam Hias pada Tekstil",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/11/RAGAM-HIAS-PADA-TEKSTIL.jpg",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/11/RAGAM-HIAS-PADA-TEKSTIL.jpg",
+            "abstract": "Yuk belajar Seni Rupa bersama Ibu Imesh. Di kelas ini, kamu akan belajar tentang dasar-dasar konsep seni rupa, khususnya teori warna dan simbol, teknik membatik, dan sulam, serta pengaplikasiannya pada tekstil. Kelas ini juga akan melatih kamu kemampuan berpikir kritis, mengekspresikan ide dan menyampaikan pesan serta memberikan kesimpulan dari pemikirannya akan suatu isu/ide baik global maupun personal.\n",
+            "sale_status": "",
+            "rating": "0.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2670,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "description": "\n<p>Yuk belajar Seni Rupa bersama Ibu Imesh. Di program <em>blended learning </em>ini, kamu akan belajar  tentang dasar-dasar konsep seni rupa, khususnya teori warna dan simbol,  teknik membatik, dan sulam, serta pengaplikasiannya pada tekstil. Pada akhir program, kamu berkesempatan untuk berpartisipasi menampilkan hasil karyamu dalam pameran di Ragam Hias Tekstil.</p>\n\n\n\n<div class=\"wp-block-image\"><figure class=\"aligncenter size-large\"><img src=\"https://images.unsplash.com/photo-1444362408440-274ecb6fc730?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80\" alt=\"\" /><figcaption>Sumber: unsplash.com</figcaption></figure></div>\n\n\n\n<h3 class=\"has-vivid-cyan-blue-color has-text-color\">Deskripsi Program</h3>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-blue-background-color has-background\"><tbody><tr><td><strong>Mata Pelajaran</strong></td><td>Seni Budaya dan Prakarya </td></tr><tr><td><strong>Tingkatan Kelas</strong></td><td>SMP/MTs kelas 7 &#8211; 13 tahun </td></tr><tr><td><strong>Durasi</strong></td><td>3 bulan</td></tr><tr><td><strong>Full Online/Blended</strong></td><td>Blended</td></tr><tr><td><strong>Kuota</strong></td><td>20</td></tr><tr><td><strong>Tanggal Mulai</strong></td><td>Januari 13</td></tr></tbody></table></figure>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-blue-background-color has-background\"><tbody><tr><td><strong>Kompetensi</strong></td><td class=\"has-text-align-center\" data-align=\"center\"><strong>Tujuan Pembelajaran</strong></td></tr><tr><td>Cerdas</td><td class=\"has-text-align-center\" data-align=\"center\">Mendemonstrasikan pengetahuan tentang bentuk-bentuk seni yang dipelajari, termasuk konsep, proses, dan penggunaan bahasa yang layak. </td></tr><tr><td>Cerdas</td><td class=\"has-text-align-center\" data-align=\"center\">Menggunakan pengetahuan yang didapatkan sebagai landasan untuk membuat karya.</td></tr><tr><td>Cerdas</td><td class=\"has-text-align-center\" data-align=\"center\">Mendiskusikan observasi yang telah dibuat oleh peserta dan memberikan opininya.</td></tr><tr><td>Inovatif</td><td class=\"has-text-align-center\" data-align=\"center\">Menunjukkan perkembangan kemampuan dan teknik dari bentuk seni yang dipelajari.</td></tr><tr><td> Inovatif</td><td class=\"has-text-align-center\" data-align=\"center\">Menunjukkan tujuan berkesenian yang jelas dan dapat dilaksanakan.</td></tr><tr><td> Inovatif</td><td class=\"has-text-align-center\" data-align=\"center\">Menunjukkan solusi alternatif dan imajinatif serta mempertimbangkan berbagai perspektif.</td></tr></tbody></table></figure>\n\n\n\n<p></p>\n\n\n\n<h3 class=\"has-vivid-cyan-blue-color has-text-color\">Tentang Ibu Imesh</h3>\n\n\n\n<p>Prameshwari Ramadhani (Ibu Imesh) adalah guru Seni Rupa di Sekolah Cikal Serpong. Ibu Imesh menyelesaikan studi sarjana pada program Desain Komunikasi Visual dari Universitas Pelita Harapan dan memiliki pengalaman profesional sebagai desainer media cetak.</p>\n",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 11,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "slug": "kelasmu-ragam-hias-pada-tekstil",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": ""
+        },
+        {
+            "id": 41,
+            "category": 3,
+            "category_name": "KARIERMU",
+            "type": 1,
+            "name": "PR Intern – Nutrifood",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/12/PR-INTERN-MUDA.jpg",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/12/PR-INTERN-MUDA.jpg",
+            "abstract": "Menjadi seorang Public Relation adalah pekerjaan yang seru. Kamu akan bertemu dengan berbagai macam kalangan dan meningkatkan jejaring mu\n",
+            "sale_status": "",
+            "rating": "5.00",
+            "subject": [
+                {
+                    "id": 1142,
+                    "subject_id": 130,
+                    "subject_name": "Pengembangan Diri"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 2774,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 2811,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                }
+            ],
+            "description": "<p>Menjadi seorang Public Relation adalah pekerjaan yang sangat seru. Kamu akan bertemu dengan berbagai macam kalangan dan pastinya akan meningkatkan jejaring sosialmu. Nah, sekarang kamu punya kesempatan untuk melihat tentang bagaimana menjadi seorang PR &nbsp;Nutrifood&nbsp;</p><h2>&nbsp;</h2><p>&nbsp;</p><p>&nbsp;</p>",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 72,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 102,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                }
+            ],
+            "slug": "kariermu-public-relation-muda-nutrifood",
+            "linier": false,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": "Sekolahmu"
+        },
+        {
+            "id": 39,
+            "category": 2,
+            "category_name": "KELASMU",
+            "type": 1,
+            "name": "Pengelolaan Aset",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/11/PENGELOLAAN-ASET.jpg",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/11/PENGELOLAAN-ASET.jpg",
+            "abstract": "Sering sekali kita mendengar istilah aset atau aktiva. Apa sih itu? Dan mengapa Pengelolaan Aset menjadi sangat penting ketika kita membuat sebuah usaha? Nah di kelas ini kalian akan belajar semua hal tentang Aset atau aktiva tetap dan kalian akan langsung diminta menjadi seorang akuntan dengan membantu usaha kecil dan menengah dalam membuat pencatatan jurnal. Untuk siapapun yang ingin jadi Akuntan atau Auditor jangan lewatkan kesempatan ini.\n",
+            "sale_status": "",
+            "rating": "0.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2772,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "description": "\n<figure class=\"wp-block-image size-large\"><img src=\"https://www.sekolah.mu/wp-content/uploads/2019/11/PENGELOLAAN-ASET-1024x683.jpg\" alt=\"\" class=\"wp-image-35559\" srcset=\"https://www.sekolah.mu/wp-content/uploads/2019/11/PENGELOLAAN-ASET-1024x683.jpg 1024w, https://www.sekolah.mu/wp-content/uploads/2019/11/PENGELOLAAN-ASET-300x200.jpg 300w, https://www.sekolah.mu/wp-content/uploads/2019/11/PENGELOLAAN-ASET-768x512.jpg 768w, https://www.sekolah.mu/wp-content/uploads/2019/11/PENGELOLAAN-ASET-1536x1025.jpg 1536w, https://www.sekolah.mu/wp-content/uploads/2019/11/PENGELOLAAN-ASET-2048x1366.jpg 2048w, https://www.sekolah.mu/wp-content/uploads/2019/11/PENGELOLAAN-ASET-400x267.jpg 400w, https://www.sekolah.mu/wp-content/uploads/2019/11/PENGELOLAAN-ASET-540x360.jpg 540w, https://www.sekolah.mu/wp-content/uploads/2019/11/PENGELOLAAN-ASET-585x390.jpg 585w, https://www.sekolah.mu/wp-content/uploads/2019/11/PENGELOLAAN-ASET-860x574.jpg 860w, https://www.sekolah.mu/wp-content/uploads/2019/11/PENGELOLAAN-ASET-1170x781.jpg 1170w, https://www.sekolah.mu/wp-content/uploads/2019/11/PENGELOLAAN-ASET-100x67.jpg 100w, https://www.sekolah.mu/wp-content/uploads/2019/11/PENGELOLAAN-ASET-600x400.jpg 600w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<p>Sering sekali kita mendengar istilah aset atau aktiva. Apa sih itu? Dan mengapa Pengelolaan Aset menjadi sangat penting ketika kita membuat sebuah usaha? Nah di kelas ini kalian akan belajar semua hal tentang Aset atau aktiva tetap dan kalian akan langsung diminta menjadi seorang akuntan dengan membantu usaha kecil dan menengah dalam membuat pencatatan jurnal. Untuk siapapun yang ingin jadi Akuntan atau Auditor jangan lewatkan kesempatan ini.</p>\n\n\n\n<h2 class=\"has-luminous-vivid-orange-color has-text-color\"><strong>Tentang Program </strong></h2>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-green-background-color has-background\"><tbody><tr><td><strong>Mata Pelajaran Terkait</strong></td><td>Akuntansi dan Keuangan, Bisnis dan Manajemen</td></tr><tr><td><strong>Tingkat/Kelas</strong></td><td>SMK kelas 12</td></tr><tr><td><strong>Durasi Program</strong></td><td>3 Bulan</td></tr><tr><td><strong>Full Online/Blended</strong></td><td>Blended</td></tr><tr><td><strong>Kuota</strong></td><td>&#8211;</td></tr><tr><td><strong>Tanggal Mulai</strong></td><td>Januari 13</td></tr></tbody></table></figure>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-green-background-color has-background\"><tbody><tr><td><strong>Kompetensi</strong></td><td><strong>Tujuan Program</strong></td></tr><tr><td>Komunikatif<br></td><td>Menerapkan aktiva tetap<br></td></tr><tr><td>Berorientasi Tindakan<br></td><td>Melakukan pencatatan aktiva tetap<br></td></tr></tbody></table></figure>\n\n\n\n<p></p>\n\n\n\n<h2 class=\"has-luminous-vivid-orange-color has-text-color\"><strong>Tentang </strong>Pak Areng Ramdhan</h2>\n\n\n\n<p>Halo, nama saya Areng Ramadhan dari SMK Diponegoro 2. Mengajar adalah sesuatu yang sangat menyenangkan. Karena dengan mengajar, semua aspek kehidupan akan terus berkembang. Saya mulai mengajar saat saya sedang menyusun skripsi tahun 2017 tepatnya bulan Januari. Saya merupakan lulusan dari pendidikan akuntansi universitas negeri Jakarta. Akuntansi adalah pelajaran favorit saya dari SMK.</p>\n\n\n\n<p>Cara mengajar saya adalah masuk ke dunia murid agar bisa membawa murid masuk ke dunia kita. Dengan demikian proses bertukar ilmu dan pikiran akan menjadi sangat mudah.</p>\n\n\n\n<h2 class=\"has-luminous-vivid-orange-color has-text-color\"><strong>Tentang SMK Diponegoro</strong></h2>\n\n\n\n<p>PERGURUAN DIPONEGORO berkedudukan di Jakarta Timur bernaung di bawah Yayasan Al-Hidayah Jakarta, didirikan pertama kali oleh (Alm) K.H. Muslich pada tahun 1963. Saat ini Yayasan Al-Hidayah Jakarta lebih fokus berkiprah dalam penyelenggaraan pendidikan pada jenjang sekolah : SMP – SMA – SMK Diponegoro 1 yang berlokasi di Rawamangun Jakarta Timur dan SMP – SMA – SMK Diponegoro 2 yang berlokasi di Cakung Jakarta Timur. Pengelolaan seluruh unit-unit sekolah tersebut dikoordinasikan oleh PERGURUAN DIPONEGORO sebagai wadah yang mendapat mandat dari Yayasan Al-Hidayah Jakarta.</p>\n\n\n\n<p>Mempunyai Visi mengembangkan pembelajaran yang aktif, inovatik, kreatif dan menyenangkan dengan mendayagunakan IPTEK dan lingkungan sehingga mampu meningkatkan potensi peserta didik secara optimal.<br></p>\n",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 70,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "slug": "kelasmu-pengelolaan-aset",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": ""
+        },
+        {
+            "id": 38,
+            "category": 3,
+            "category_name": "KARIERMU",
+            "type": 1,
+            "name": "Pengacara Muda – Assegaf Hamzah & Partners",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/12/Icon-21.png",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/12/Icon-21.png",
+            "abstract": "Bercita-cita jadi seorang pengacara sukses di masa depan? Tim Assegaf Hamzah &amp; Partners akan memandu kamu untuk mengenal dunia kerja pengacara, meningkatkan kemampuan negosiasi kamu, serta mempelajari hal-hal teknis seperti membuat perjanjian kerja sama. Kamu akan mendapatkan pembelajaran melalui metode mini workshop dan magang selama 6 bulan.\n",
+            "sale_status": "",
+            "rating": "0.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2663,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 2664,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 2771,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 2809,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                }
+            ],
+            "description": "\n<p>Bercita-cita jadi seorang pengacara sukses di masa depan? Tim Assegaf Hamzah &amp; Partners akan memandu kamu untuk mengenal dunia kerja pengacara serta meningkatkan kemampuan kamu dalam menyusun dan mengkomunikasikan argumen dalam bentuk tulisan maupun lisan yang merupakan kemampuan penting untuk menjadi seorang pengacara. Kamu akan dibimbing langsung oleh pengacara-pengacara handal dari AHP dan di akhir program kamu akan berpartisipasi dalam eksibisi debat.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"https://www.sekolah.mu/wp-content/uploads/2019/12/PENGACARA-MUDA-1024x683.jpg\" alt=\"\" class=\"wp-image-35543\" srcset=\"https://www.sekolah.mu/wp-content/uploads/2019/12/PENGACARA-MUDA-1024x683.jpg 1024w, https://www.sekolah.mu/wp-content/uploads/2019/12/PENGACARA-MUDA-300x200.jpg 300w, https://www.sekolah.mu/wp-content/uploads/2019/12/PENGACARA-MUDA-768x512.jpg 768w, https://www.sekolah.mu/wp-content/uploads/2019/12/PENGACARA-MUDA-1536x1024.jpg 1536w, https://www.sekolah.mu/wp-content/uploads/2019/12/PENGACARA-MUDA-2048x1366.jpg 2048w, https://www.sekolah.mu/wp-content/uploads/2019/12/PENGACARA-MUDA-400x267.jpg 400w, https://www.sekolah.mu/wp-content/uploads/2019/12/PENGACARA-MUDA-540x360.jpg 540w, https://www.sekolah.mu/wp-content/uploads/2019/12/PENGACARA-MUDA-585x390.jpg 585w, https://www.sekolah.mu/wp-content/uploads/2019/12/PENGACARA-MUDA-860x573.jpg 860w, https://www.sekolah.mu/wp-content/uploads/2019/12/PENGACARA-MUDA-1170x780.jpg 1170w, https://www.sekolah.mu/wp-content/uploads/2019/12/PENGACARA-MUDA-100x67.jpg 100w, https://www.sekolah.mu/wp-content/uploads/2019/12/PENGACARA-MUDA-600x400.jpg 600w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<h2 class=\"has-text-color\" style=\"color:#1e73be\">Deskripsi Program</h2>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-blue-background-color has-background\"><tbody><tr><td><strong>Bidang Studi</strong></td><td>Hukum, Komunikasi, Bahasa Indonesia</td></tr><tr><td><strong>Tingkatan Kelas</strong></td><td>SMA/MA (16-18 tahun) </td></tr><tr><td><strong>Durasi</strong></td><td>1 bulan</td></tr><tr><td><strong>Tanggal Mulai</strong></td><td>15 Januari 2020</td></tr><tr><td><strong>Kredit</strong></td><td>0.5 SKS</td></tr></tbody></table></figure>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-blue-background-color has-background\"><thead><tr><th><strong>Kompetensi</strong></th><th class=\"has-text-align-center\" data-align=\"center\"><strong>Tujuan Pembelajaran</strong></th></tr></thead><tbody><tr><td><strong>Cerdas</strong></td><td class=\"has-text-align-center\" data-align=\"center\">Memahami kemampuan yang harus dimiliki oleh seorang pengacara</td></tr><tr><td><strong>Cerdas</strong></td><td class=\"has-text-align-center\" data-align=\"center\">Menyusun gagasan secara logis dan <em>reasonable</em></td></tr><tr><td><strong>Komunikatif</strong></td><td class=\"has-text-align-center\" data-align=\"center\">Menyampaikan argumen tentang suatu topik secara tertulis dalam bentuk essay</td></tr><tr><td><strong>Komunikatif</strong></td><td class=\"has-text-align-center\" data-align=\"center\">Menyampaikan argumen tentang suatu topik secara lisan dengan meyakinkan</td></tr></tbody></table></figure>\n\n\n\n<h2 class=\"has-text-color\" style=\"color:#1e73be\">Jadwal Pertemuan Tatap Muka</h2>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-blue-background-color has-background\"><tbody><tr><td><strong>Pertemuan ke-</strong></td><td><strong>Tanggal &amp; Waktu</strong></td><td><strong>Tempat</strong></td></tr><tr><td>1</td><td>Senin, 20 Januari 2020 <br>(Jam 16.00 &#8211; 18.00)</td><td>Kantor Assegaf Hamzah &amp; Partners, Capital Place, Lt. 36<br>(<a href=\"https://goo.gl/maps/iToCFJr1AzXZUKTV8\">Lihat lokasi di Google Map</a>)</td></tr><tr><td>2</td><td>Selasa, 21 Januari 2020 <br>(jam 15:00 &#8211; 18.00)</td><td>Kantor Assegaf Hamzah &amp; Partners, Capital Place, Lt. 36<br>(<a href=\"https://goo.gl/maps/iToCFJr1AzXZUKTV8\">Lihat lokasi di Google Map</a>) </td></tr><tr><td>3</td><td>Jumat, 24 Januari 2020<br>(Jam 15.00 &#8211; 18.00)</td><td>Kantor Assegaf Hamzah &amp; Partners, Capital Place, Lt. 36<br>(<a href=\"https://goo.gl/maps/iToCFJr1AzXZUKTV8\">Lihat lokasi di Google Map</a>)  </td></tr><tr><td>3</td><td>Senin, 27 Januari 2020<br>(Jam 15.00 &#8211; 18.00)</td><td>Kantor Assegaf Hamzah &amp; Partners, Capital Place, Lt. 36<br>(<a href=\"https://goo.gl/maps/iToCFJr1AzXZUKTV8\">Lihat lokasi di Google Map</a>) </td></tr><tr><td>4</td><td>Rabu, 28 Januari 2020<br>(Jam 15.00 &#8211; 18.00)</td><td>Kantor Assegaf Hamzah &amp; Partners, Capital Place, Lt. 36<br>(<a href=\"https://goo.gl/maps/iToCFJr1AzXZUKTV8\">Lihat lokasi di Google Map</a>)  </td></tr><tr><td>4</td><td>Kamis, 30 Januari 2020<br>(Jam 15.00 &#8211; 18.00)</td><td>Kantor Assegaf Hamzah &amp; Partners, Capital Place, Lt. 36<br>(<a href=\"https://goo.gl/maps/iToCFJr1AzXZUKTV8\">Lihat lokasi di Google Map</a>) </td></tr><tr><td>5</td><td>Jumat, 31 Januari 2020<br>(Jam 15.00 &#8211; 18.00)</td><td>Kantor Assegaf Hamzah &amp; Partners, Capital Place, Lt. 36<br>(<a href=\"https://goo.gl/maps/iToCFJr1AzXZUKTV8\">Lihat lokasi di Google Map</a>) </td></tr></tbody></table></figure>\n\n\n\n<h2 class=\"has-text-color\" style=\"color:#1e73be\">Tentang Assegaf Hamzah &amp; Partners</h2>\n\n\n\n<p>Assegaf Hamzah &amp; Partners adalah salah satu firma hukum terbesar di Indonesia yang telah berdiri sejak 2001.  AHP mendapatkan reputasi untuk inovasi, ketajaman komersial, dan memberikan layanan bantuan hukum dengan tim berkekuatan lebih dari 500 orang pengacara berpengalaman.</p>\n",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 9,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 10,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 69,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 100,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                }
+            ],
+            "slug": "kariermu-pengacara-muda-assegaf-hamzah-partners",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": ""
+        },
+        {
+            "id": 36,
+            "category": 2,
+            "category_name": "KELASMU",
+            "type": 1,
+            "name": "Peluang dan Statistika",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/11/PELUANG-DAN-STATISTIKA.jpg",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/11/PELUANG-DAN-STATISTIKA.jpg",
+            "abstract": "Yuk belajar Statistika dan Peluang bersama Ibu Dina dari SMA Diponegoro Jakarta. Dalam program ini kamu akan belajar tentang penyajian, analisis data sederhana, menentukan peluang, dan melakukan prediksi berdasarkan data dengan konteks perkembangan industri <em>e-commerce</em>.\n",
+            "sale_status": "",
+            "rating": "0.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2770,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "description": "\n<p>Yuk belajar memprediksi tren masa depan dengan statistika dan peluang. Dalam program ini, kamu akan belajar tentang penyajian, analisis data sederhana, menentukan peluang, dan melakukan prediksi berdasarkan data dengan konteks perkembangan industri <em>e-commerce</em> bersama  Ibu Dina Maulina dari SMA Diponegoro.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"https://www.sekolah.mu/wp-content/uploads/2019/11/PELUANG-DAN-STATISTIKA-1024x682.jpg\" alt=\"\" class=\"wp-image-35584\" srcset=\"https://www.sekolah.mu/wp-content/uploads/2019/11/PELUANG-DAN-STATISTIKA-1024x682.jpg 1024w, https://www.sekolah.mu/wp-content/uploads/2019/11/PELUANG-DAN-STATISTIKA-300x200.jpg 300w, https://www.sekolah.mu/wp-content/uploads/2019/11/PELUANG-DAN-STATISTIKA-768x512.jpg 768w, https://www.sekolah.mu/wp-content/uploads/2019/11/PELUANG-DAN-STATISTIKA-1536x1024.jpg 1536w, https://www.sekolah.mu/wp-content/uploads/2019/11/PELUANG-DAN-STATISTIKA-2048x1365.jpg 2048w, https://www.sekolah.mu/wp-content/uploads/2019/11/PELUANG-DAN-STATISTIKA-400x267.jpg 400w, https://www.sekolah.mu/wp-content/uploads/2019/11/PELUANG-DAN-STATISTIKA-540x360.jpg 540w, https://www.sekolah.mu/wp-content/uploads/2019/11/PELUANG-DAN-STATISTIKA-585x390.jpg 585w, https://www.sekolah.mu/wp-content/uploads/2019/11/PELUANG-DAN-STATISTIKA-860x573.jpg 860w, https://www.sekolah.mu/wp-content/uploads/2019/11/PELUANG-DAN-STATISTIKA-1170x780.jpg 1170w, https://www.sekolah.mu/wp-content/uploads/2019/11/PELUANG-DAN-STATISTIKA-100x67.jpg 100w, https://www.sekolah.mu/wp-content/uploads/2019/11/PELUANG-DAN-STATISTIKA-600x400.jpg 600w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<p></p>\n\n\n\n<h2 class=\"has-text-color\" style=\"color:#1e73be\">Deskripsi Program</h2>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-blue-background-color has-background\"><tbody><tr><td><strong>Mata Pelajaran</strong></td><td>Matematika</td></tr><tr><td><strong>Tingkatan Kelas</strong></td><td> SMA/MA kelas 12 (18 tahun) </td></tr><tr><td><strong>Durasi</strong></td><td>3 bulan</td></tr><tr><td><strong>Full Online/Blended</strong></td><td>Blended</td></tr><tr><td><strong>Kuota</strong></td><td>&#8211;</td></tr><tr><td><strong>Tanggal Mulai</strong></td><td>Januari 13</td></tr></tbody></table></figure>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-blue-background-color has-background\"><thead><tr><th><strong>Kompetensi</strong></th><th class=\"has-text-align-center\" data-align=\"center\"><strong>Tujuan Pembelajaran</strong></th></tr></thead><tbody><tr><td>Cerdas</td><td class=\"has-text-align-center\" data-align=\"center\">Menentukan dan menganalisis ukuran pemusatan dan penyebaran data yang disajikan dalam bentuk tabel distribusi frekuensi dan histogram.</td></tr><tr><td>Komunikatif</td><td class=\"has-text-align-center\" data-align=\"center\">Menganalisis aturan pencacahan (aturan penjumlahan, aturan perkalian, permutasi, dan kombinasi) melalui masalah kontekstual.</td></tr></tbody></table></figure>\n\n\n\n<p></p>\n\n\n\n<h2 class=\"has-text-color\" style=\"color:#1e73be\">Tentang Ibu Dina Maulina</h2>\n\n\n\n<p>Ibu Dina Maulina adalah guru Matematika di SMA Diponegoro, Jakarta.</p>\n",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 68,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "slug": "kelasmu-peluang-dan-statistika",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": ""
+        },
+        {
+            "id": 35,
+            "category": 3,
+            "category_name": "KARIERMU",
+            "type": 1,
+            "name": "Makeup Artist Muda – The Body Shop",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/12/MAKEUP-ARTIST-MUDA.jpg",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/12/MAKEUP-ARTIST-MUDA.jpg",
+            "abstract": "Makeup Artist adalah salah satu profesi yang lagi ngetrend banget dan bisa dilakukan oleh siapa aja, lho! Apalagi, setiap hari ada saja yang memerlukan jasa Makeup Artist. Nah, di program ini kamu mempunyai kesempatan untuk bisa menjadi Makeup Artist. Kamu akan diajarkan bagaimana tips menjadi Makeup Artist yang profesional, langsung oleh ahlinya dari __The Body Shop__.",
+            "sale_status": "",
+            "rating": "0.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2794,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 2820,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                }
+            ],
+            "description": "\nMakeup Artist adalah salah satu profesi yang lagi ngetrend banget dan bisa dilakukan oleh siapa aja, lho! Apalagi, setiap hari ada saja yang memerlukan jasa Makeup Artist. Nah, di program ini kamu mempunyai kesempatan untuk bisa menjadi Makeup Artist. Kamu akan diajarkan bagaimana tips menjadi Makeup Artist yang profesional, langsung oleh ahlinya dari **The Body Shop**. \n\n## Deskripsi Program\n**Mata Pelajaran** : Seni Budaya dan Prakarya\n**Tingkatan Kelas** :  SMA/MA (16-18 tahun) \n**Durasi** : 1,5 bulan\n**Full Online/Blended** : Blended\n**Kuota** : 5\n**Tanggal Mulai** : 13 Januari 2020\n\n**Kompetensi** & **Tujuan Pembelajaran**\n\nKomunikatif : Mengekspresikan konsep, ide, dan makna melalui  tata rias \nCerdas : Memahami kemampuan apa saja yang harus dimiliki oleh seorang makeup artist \nInovatif : Mengaplikasikan tata rias yang sesuai dengan kebutuhan ‘klien’ dan tema kreatif \n\n## Tentang The Body Shop\n\n**The Body Shop International plc**, atau lebih dikenal dengan **The Body Shop**,  adalah perusahaan franchise kosmetika kedua terbesar di dunia. Perusahaan ini, yang berpusat di [Littlehampton](https://id.wikipedia.org/wiki/Littlehampton), [Sussex Barat](https://id.wikipedia.org/wiki/Sussex_Barat), Inggris, didirikan oleh Dame [Anita Roddick](https://id.wikipedia.org/wiki/Anita_Roddick) dan terkenal oleh produk-produknya yang menggunakan zat herbal mulai dari Body Butter, Peppermint Foot Lotion, dan Hemp. The Body Shop juga menekankan dukungannya terhadap berbagai macam isu yang beredar di seluruh dunia. Slogan-slogan mereka antara lain adalah: **Against Animal Testing** (Lawan Uji Coba terhadap Hewan), **Support Community Trade**, **Activate Self Esteem**, **Defend Human Rights** (Tegakkan HAM), dan **Protect Our Planet** (Proteksikan Planet Kita). \n",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 88,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 111,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                }
+            ],
+            "slug": "makeup-artist-muda-the-body-shop",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": ""
+        },
+        {
+            "id": 34,
+            "category": 2,
+            "category_name": "KELASMU",
+            "type": 1,
+            "name": "Membuat Konten Digital Pengajaran Abad ke-21",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/12/Kelasmu-Badges-76.png",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/12/Kelasmu-Badges-76.png",
+            "abstract": "<!-- wp:paragraph -->\nBenarkah belajar daring (online) harus selalu menggunakan video pengajaran? Adakah media belajar lain yang bisa kita manfaatkan untuk melakukan pengajaran Abad ke-21? Bagaimana cara membuat konten digital pengajaran Abad ke-21?\n<!-- /wp:paragraph -->\n<!-- wp:paragraph -->\nBersama Instruktur dari Kampus Guru Cikal, kita akan mengupas bersama-sama strategi menciptakan konten digital untuk pengajaran abad ke-21.\n",
+            "sale_status": "",
+            "rating": "5.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2661,
+                    "tag": "Guru",
+                    "title": "Guru"
+                }
+            ],
+            "description": "\n<p>Benarkah belajar daring (online) harus selalu menggunakan video pengajaran?<br> Adakah media belajar lain yang bisa kita manfaatkan untuk melakukan pengajaran Abad ke-21? Bagaimana cara membuat konten digital pengajaran Abad ke-21? Kelas ini akan membahas hal-hal mendasar terkait dengan konten pengajaran digital untuk pengajaran abad ke-21</p>\n\n\n\n<h2>Deskripsi Program</h2>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"\"><tbody><tr><td><strong>Mata Pelajaran</strong></td><td>Pengembangan Guru</td></tr><tr><td><strong>Tingkatan Kelas</strong></td><td>Umum</td></tr><tr><td><strong>Durasi</strong></td><td>18 jam belajar</td></tr></tbody></table></figure>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"\"><thead><tr><th><strong>Kompetensi</strong></th><th><strong>Tujuan Pembelajaran</strong></th></tr></thead><tbody><tr><td>Berorientasi Aksi</td><td>Menciptakan ragam konten digital yang mendukung proses pengajaran</td></tr><tr><td>Komunikatif</td><td>Menyampaikan pesan melalui beragam konten digital</td></tr></tbody></table></figure>\n\n\n\n<p></p>\n\n\n\n<h2>Tentang Instruktur Program</h2>\n\n\n\n<p>Anggayudha Ananda Rasa atau yang biasa dipanggil Aye adalah manajer program pengembangan guru di sekolahmu. Memulai karirnya sebagai guru di tahun 2008. Selama menjalani karirnya sebagai pendidik, Anggayudha rutin menciptakan beragam konten pengajaran yang disampaikan melalui <a href=\"https://www.youtube.com/anggayudha1\">kanal digital youtube </a>yang dikembangkan. Pernah menjadi kontributor konten di Inibudi, Pahamify dan Sekolahmu. </p>\n",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 8,
+                    "tag": "Guru",
+                    "title": "Guru"
+                }
+            ],
+            "slug": "kelasmu-membuat-konten-digital-pengajaran-abad-ke-21",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": ""
+        },
+        {
+            "id": 32,
+            "category": 2,
+            "category_name": "KELASMU",
+            "type": 1,
+            "name": "Kelas Merdeka Belajar – Kampus Guru Cikal",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/12/Kelas-Merdeka-Belajar.png",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/12/Kelas-Merdeka-Belajar.png",
+            "abstract": "Sudahkah dengan memahami dan memiliki konsep merdeka belajar kita mampu menghadirkan pengajaran yang merdeka? ",
+            "sale_status": "",
+            "rating": "0.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2706,
+                    "tag": "Guru",
+                    "title": "Guru"
+                },
+                {
+                    "id": 4456,
+                    "tag": "featured",
+                    "title": "featured"
+                }
+            ],
+            "description": "\nApa yang Anda butuhkan sebagai guru merdeka belajar dalam pengelolaan kelas? Sudahkah dengan memahami dan memiliki konsep merdeka belajar kita mampu menghadirkan pengajaran yang merdeka? <br />Dalam program Kelas Merdeka Belajar Anda akan belajar bagaimana caranya mengelola kelas agar tercipta suasana merdeka belajar. Sehingga dengan menerapkan prinsip-prinsip pengelolaan kelas merdeka belajar, murid-murid Anda menjadi pelajar merdeka.\n\n## Tentang Program\n**Mata Pelajaran Terkait** : Pengembangan Guru\n**Kelas** : Umum\n**Durasi Belajar** : 18 jam belajar\n**Full Online/Blended** : Full Online\n**Kuota** : 100\n**Kompetensi** : **Tujuan Program**\nBerorientasi AksiMenerapkan teori, konsep dan pengetahuan untuk menyelesaikan suatu permasalahan yang berkaitan dengan proses belajar di kelas konvensional\nBerorientasi AksiMengelola kelas berdasarkan konsep pengelolaan kelas merdeka belajar\n\n## Tentang Kampus Guru Cikal\n\nKampus guru cikal adalah Lembaga pengembangan karier guru yang percaya guru dengan kemerdekaan belajar adalah kunci perubahan pendidikan untuk mewujudkan pelajar yang kompeten, ekosistem pendidikan yang kolaboratif dan Indonesia yang demokratis.\n\nMelalui beraggam program pengembangan guru, Kampus Guru Cikal siap mendampingi proses belajar Anda hingga menjadi guru penggerak perubahan pendidikan di Indonesia.\n",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 27,
+                    "tag": "Guru",
+                    "title": "Guru"
+                }
+            ],
+            "slug": "kelas-merdeka-belajar-kampus-guru-cikal",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": ""
+        },
+        {
+            "id": 31,
+            "category": 1,
+            "category_name": "UJIANMU",
+            "type": 1,
+            "name": "JAGO SOSIOLOGI 10",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/11/Sosiologi-07.png",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/11/Sosiologi-07.png",
+            "abstract": "Telusuri materi Sosiologi Kelas 10 dengan menyenangkan dan menantang!\n",
+            "sale_status": "",
+            "rating": "0.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2768,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "description": "\n<figure class=\"wp-block-image size-large\"><img src=\"https://www.sekolah.mu/wp-content/uploads/2019/12/sosiologi-10.png\" alt=\"\" class=\"wp-image-36135\" srcset=\"https://www.sekolah.mu/wp-content/uploads/2019/12/sosiologi-10.png 540w, https://www.sekolah.mu/wp-content/uploads/2019/12/sosiologi-10-300x200.png 300w, https://www.sekolah.mu/wp-content/uploads/2019/12/sosiologi-10-400x267.png 400w, https://www.sekolah.mu/wp-content/uploads/2019/12/sosiologi-10-100x67.png 100w\" sizes=\"(max-width: 540px) 100vw, 540px\" /></figure>\n\n\n\n<p>Telusuri materi Sosiologi Kelas 10 dengan menyenangkan dan menantang!</p>\n",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 66,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "slug": "ujianmu-jago-sosiologi-10",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": true,
+            "creator": ""
+        },
+        {
+            "id": 30,
+            "category": 1,
+            "category_name": "UJIANMU",
+            "type": 1,
+            "name": "JAGO MATEMATIKA IPS 10",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/11/Icon2-05.png",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/11/Icon2-05.png",
+            "abstract": "Telusuri materi Matematika Kelas 10 IPA dengan menyenangkan dan menantang! Di program ini, kamu akan belajar dengan melihat video, rumus, dan latihan soal. Kalau saat belajar ada yang kamu tidak pahami, kamu bisa langsung tanya guru di Tanyamu (hanya di aplikasi).\n",
+            "sale_status": "",
+            "rating": "0.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2767,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "description": "\n<p>Telusuri materi Matematika Kelas 10 IPS dengan menyenangkan dan menantang! Di program ini, kamu akan belajar dengan melihat video, rumus, dan latihan soal. Kalau saat belajar ada yang kamu tidak pahami, kamu bisa langsung tanya guru di <a href=\"https://www.sekolah.mu/tanyamu/\">Tanyamu</a> (hanya di aplikasi). </p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.26.12-PM-1024x548.png\" alt=\"\" class=\"wp-image-35307\" srcset=\"https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.26.12-PM-1024x548.png 1024w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.26.12-PM-300x161.png 300w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.26.12-PM-768x411.png 768w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.26.12-PM-1536x822.png 1536w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.26.12-PM-2048x1096.png 2048w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.26.12-PM-400x214.png 400w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.26.12-PM-540x289.png 540w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.26.12-PM-860x460.png 860w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.26.12-PM-1170x626.png 1170w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.26.12-PM-100x54.png 100w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.26.12-PM-600x321.png 600w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><figcaption><em>Screenshot video &#8220;Pertidaksamaan mutlak dalam perhitungan&#8221;</em></figcaption></figure>\n\n\n\n<h2 class=\"has-vivid-green-cyan-color has-text-color\">Deskripsi Program</h2>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-green-background-color has-background\"><tbody><tr><td><strong>Mata Pelajaran Terkait</strong></td><td>Matematika IPS</td></tr><tr><td><strong>Tingkatan Kelas</strong></td><td>Kelas 10/SMA 1</td></tr><tr><td><strong>Durasi</strong></td><td>6 bulan</td></tr><tr><td><strong>Jumlah Video</strong></td><td>10</td></tr><tr><td><strong>Jumlah Kuis </strong></td><td>10</td></tr></tbody></table></figure>\n",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 65,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "slug": "ujianmu-jago-matematika-ips-10",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": ""
+        },
+        {
+            "id": 29,
+            "category": 1,
+            "category_name": "UJIANMU",
+            "type": 1,
+            "name": "JAGO MATEMATIKA IPA 12",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/11/Icon5-05.png",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/11/Icon5-05.png",
+            "abstract": "Telusuri materi Matematika Kelas 12 IPA dengan menyenangkan dan menantang! Di program ini, kamu akan belajar dengan melihat video, rumus, dan latihan soal. Kalau saat belajar ada yang kamu tidak pahami, kamu bisa langsung tanya guru di Tanyamu (hanya di aplikasi).\n",
+            "sale_status": "",
+            "rating": "0.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2766,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "description": "\n<p>Telusuri materi <strong>Matematika Kelas 12 IPA</strong> dengan menyenangkan dan menantang! Di program ini, kamu akan belajar dengan melihat video, rumus, dan latihan soal. Kalau saat belajar ada yang kamu tidak pahami, kamu bisa langsung tanya guru di&nbsp;<a href=\"https://www.sekolah.mu/tanyamu/\">Tanyamu</a>&nbsp;(hanya di aplikasi).</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.52.08-PM-1024x542.png\" alt=\"\" class=\"wp-image-35336\" srcset=\"https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.52.08-PM-1024x542.png 1024w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.52.08-PM-300x159.png 300w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.52.08-PM-768x407.png 768w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.52.08-PM-1536x814.png 1536w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.52.08-PM-2048x1085.png 2048w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.52.08-PM-400x212.png 400w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.52.08-PM-540x286.png 540w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.52.08-PM-860x456.png 860w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.52.08-PM-1170x620.png 1170w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.52.08-PM-100x53.png 100w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.52.08-PM-600x318.png 600w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<h2 class=\"has-vivid-purple-color has-text-color\">Deskripsi Program</h2>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-pink-background-color has-background\"><tbody><tr><td><strong>Mata Pelajaran Terkait</strong></td><td>Matematika IPA</td></tr><tr><td><strong>Tingkatan Kelas</strong></td><td>Kelas 12/SMA 3</td></tr><tr><td><strong>Durasi</strong></td><td>6 bulan</td></tr><tr><td><strong>Jumlah Video</strong></td><td>10</td></tr><tr><td><strong>Jumlah Kuis</strong></td><td>10</td></tr></tbody></table></figure>\n\n\n\n<p></p>\n",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 64,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "slug": "ujianmu-jago-matematika-ipa-12",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": ""
+        },
+        {
+            "id": 28,
+            "category": 1,
+            "category_name": "UJIANMU",
+            "type": 1,
+            "name": "JAGO MATEMATIKA IPA 11",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/12/Icon4-05.png",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/12/Icon4-05.png",
+            "abstract": "Telusuri materi Matematika Kelas 11 IPA dengan menyenangkan dan menantang! Di program ini, kamu akan belajar dengan melihat video, rumus, dan latihan soal. Kalau saat belajar ada yang kamu tidak pahami, kamu bisa langsung tanya guru di Tanyamu (hanya di aplikasi).\n",
+            "sale_status": "",
+            "rating": "0.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2765,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "description": "\n<p>Telusuri materi <strong>Matematika Kelas 11 IPA </strong>dengan menyenangkan dan menantang! Di program ini, kamu akan belajar dengan melihat video, rumus, dan latihan soal. Kalau saat belajar ada yang kamu tidak pahami, kamu bisa langsung tanya guru di&nbsp;<a href=\"https://www.sekolah.mu/tanyamu/\">Tanyamu</a>&nbsp;(hanya di aplikasi).</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-5.04.07-PM-1024x451.png\" alt=\"\" class=\"wp-image-35357\" srcset=\"https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-5.04.07-PM-1024x451.png 1024w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-5.04.07-PM-300x132.png 300w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-5.04.07-PM-768x338.png 768w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-5.04.07-PM-1536x677.png 1536w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-5.04.07-PM-2048x902.png 2048w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-5.04.07-PM-400x176.png 400w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-5.04.07-PM-540x238.png 540w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-5.04.07-PM-860x379.png 860w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-5.04.07-PM-1170x516.png 1170w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-5.04.07-PM-100x44.png 100w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-5.04.07-PM-600x264.png 600w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<h2 class=\"has-pale-pink-color has-text-color\">Deskripsi Program</h2>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-pink-background-color has-background\"><tbody><tr><td><strong>Mata Pelajaran Terkait</strong></td><td>Matematika IPA</td></tr><tr><td><strong>Tingkatan Kelas</strong></td><td>Kelas 11/SMA 2</td></tr><tr><td><strong>Durasi</strong></td><td>6 bulan</td></tr><tr><td><strong>Jumlah Video</strong></td><td>10</td></tr><tr><td><strong>Jumlah Kuis</strong></td><td>10</td></tr></tbody></table></figure>\n",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 63,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "slug": "ujianmu-jago-matematika-ipa-11",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": ""
+        },
+        {
+            "id": 27,
+            "category": 1,
+            "category_name": "UJIANMU",
+            "type": 1,
+            "name": "JAGO MATEMATIKA IPA 10",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/11/Icon-05.png",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/11/Icon-05.png",
+            "abstract": "Telusuri materi Matematika Kelas 10 IPA dengan menyenangkan dan menantang! Di program ini, kamu akan belajar dengan melihat video, rumus, dan latihan soal. Kalau saat belajar ada yang kamu tidak pahami, kamu bisa langsung tanya guru di Tanyamu (hanya di aplikasi).\n",
+            "sale_status": "",
+            "rating": "0.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2764,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "description": "\n<p>Telusuri materi Matematika Kelas 10 IPA dengan menyenangkan dan menantang! Di program ini, kamu akan belajar dengan melihat video, rumus, dan latihan soal. Kalau saat belajar ada yang kamu tidak pahami, kamu bisa langsung tanya guru di <a href=\"https://www.sekolah.mu/tanyamu/\">Tanyamu</a> (hanya di aplikasi). </p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.26.12-PM-1024x548.png\" alt=\"\" class=\"wp-image-35307\" srcset=\"https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.26.12-PM-1024x548.png 1024w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.26.12-PM-300x161.png 300w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.26.12-PM-768x411.png 768w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.26.12-PM-1536x822.png 1536w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.26.12-PM-2048x1096.png 2048w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.26.12-PM-400x214.png 400w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.26.12-PM-540x289.png 540w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.26.12-PM-860x460.png 860w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.26.12-PM-1170x626.png 1170w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.26.12-PM-100x54.png 100w, https://www.sekolah.mu/wp-content/uploads/2019/12/Screen-Shot-2019-12-02-at-4.26.12-PM-600x321.png 600w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /><figcaption><em>Screenshot video &#8220;Pertidaksamaan mutlak dalam perhitungan&#8221;</em></figcaption></figure>\n\n\n\n<h2 class=\"has-vivid-green-cyan-color has-text-color\">Deskripsi Program</h2>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-green-background-color has-background\"><tbody><tr><td><strong>Mata Pelajaran Terkait</strong></td><td>Matematika IPA</td></tr><tr><td><strong>Tingkatan Kelas</strong></td><td>Kelas 10/SMA 1</td></tr><tr><td><strong>Durasi</strong></td><td>6 bulan</td></tr><tr><td><strong>Jumlah Video</strong></td><td>10</td></tr><tr><td><strong>Jumlah Kuis </strong></td><td>10</td></tr></tbody></table></figure>\n",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 62,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "slug": "ujianmu-jago-matematika-ipa-10",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": true,
+            "creator": ""
+        },
+        {
+            "id": 26,
+            "category": 1,
+            "category_name": "UJIANMU",
+            "type": 1,
+            "name": "JAGO KIMIA 12",
+            "avatar": "https://www.sekolah.mu/wp-content/uploads/2019/11/Kimia-01-1.png",
+            "badge": "https://www.sekolah.mu/wp-content/uploads/2019/11/Kimia-01-1.png",
+            "abstract": "Telusuri materi Kimia Kelas 12 dengan menyenangkan dan menantang! Di program ini, kamu akan belajar dengan melihat video, rumus, dan latihan soal. Kalau saat belajar ada yang kamu tidak pahami, kamu bisa langsung tanya guru di Tanyamu (hanya di aplikasi).\n",
+            "sale_status": "",
+            "rating": "0.00",
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 2763,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "description": "\n<p>Telusuri materi&nbsp;<strong>Kimia Kelas 12&nbsp;</strong>dengan menyenangkan dan menantang! Di program ini, kamu akan belajar dengan melihat video, rumus, dan latihan soal. Kalau saat belajar ada yang kamu tidak pahami, kamu bisa langsung tanya guru di&nbsp;<a href=\"https://www.sekolah.mu/tanyamu/\">Tanyamu</a>&nbsp;(hanya di aplikasi).</p>\n\n\n\n<div class=\"wp-block-image\"><figure class=\"aligncenter size-large\"><img src=\"https://www.sekolah.mu/wp-content/uploads/2019/11/kimia-12.png\" alt=\"\" class=\"wp-image-36540\" srcset=\"https://www.sekolah.mu/wp-content/uploads/2019/11/kimia-12.png 540w, https://www.sekolah.mu/wp-content/uploads/2019/11/kimia-12-300x200.png 300w, https://www.sekolah.mu/wp-content/uploads/2019/11/kimia-12-400x267.png 400w, https://www.sekolah.mu/wp-content/uploads/2019/11/kimia-12-100x67.png 100w\" sizes=\"(max-width: 540px) 100vw, 540px\" /></figure></div>\n\n\n\n<h2 class=\"has-vivid-cyan-blue-color has-text-color\">Deskripsi Program</h2>\n\n\n\n<figure class=\"wp-block-table\"><table class=\"has-subtle-pale-blue-background-color has-background\"><tbody><tr><td><strong>Mata Pelajaran Terkait</strong></td><td>Kimia</td></tr><tr><td><strong>Tingkatan Kelas</strong></td><td>Kelas 12/SMA 3</td></tr><tr><td><strong>Durasi</strong></td><td>6 bulan</td></tr><tr><td><strong>Jumlah Video</strong></td><td>10</td></tr><tr><td><strong>Jumlah Kuis</strong></td><td>10</td></tr></tbody></table></figure>\n",
+            "price_normal": "0.00",
+            "price": "0.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 61,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "slug": "ujianmu-jago-kimia-12",
+            "linier": null,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": ""
+        }
+    ],
+    "status": 200,
+    "next-url": "https://api.sekolah.mu/program/list/all/9/30/featured",
+    "message": "OK"
+}

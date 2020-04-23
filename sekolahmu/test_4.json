@@ -1,0 +1,2701 @@
+{
+    "next-url": "https://api.sekolah.mu/program/list/all/5/30/featured",
+    "status": 200,
+    "data": [
+        {
+            "id": 664,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Cepat Cakap Inggris Khusus Pramusaji F&B",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/113b5308450d4170a1c5cded8b394255.png",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/113b5308450d4170a1c5cded8b394255.png",
+            "abstract": "Kursus kilat untuk pemahaman materi pelayanan pelanggan dalam bahasa inggris, ikuti 7 hari kelas berturut-turut dan dapatkan sertifikat!",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 1304,
+                    "subject_id": 91,
+                    "subject_name": "Bahasa Inggris"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 3863,
+                    "tag": "Tour Guide dan Pariwisata",
+                    "title": "Tour Guide dan Pariwisata"
+                }
+            ],
+            "description": "<p>Tingkatkan kemampuan Bahasa Inggris Anda sebagai Pramusaji! Dalam 7 kali pertemuan, Anda akan jauh lebih cakap dalam berbahasa Inggris.</p>",
+            "price_normal": "0.00",
+            "price": "250000.00",
+            "status": true,
+            "pmo_id": "cepat0010029000682149399",
+            "tag": [
+                {
+                    "id": 643,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                },
+                {
+                    "id": 1705,
+                    "tag": "Profesional",
+                    "title": "Profesional"
+                }
+            ],
+            "slug": "cepat-cakap-inggris-khusus-pramusaji-fb",
+            "linier": false,
+            "max_quota": 1000,
+            "current_quota": 999,
+            "enrolled": false,
+            "creator": "Cakap"
+        },
+        {
+            "id": 662,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Cepat Cakap Mandarin Khusus Job Interview (3 bulan)",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/16e387546e5a45f795d7dbddae5de182.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/0184f0a1ad7c48d29072fb3c35fdd040.jpg",
+            "abstract": "Kursus kilat untuk pemahaman materi job interview dalam bahasa mandarin, ikuti 7 hari kelas berturut-turut dan dapatkan sertifikat!",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 1303,
+                    "subject_id": 89,
+                    "subject_name": "Bahasa dan Sastra Mandarin"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 3908,
+                    "tag": "Fresh Graduate",
+                    "title": "Fresh Graduate"
+                }
+            ],
+            "description": "<p>Kelas bahasa Mandarin khusus untuk Anda yang membutuhkan kiat-kiat dan materi terkait interview seperti: apa saja yang harus disiapkan dan bagaimana lancar berbahasa Mandarin saat interview kerja dengan tetap tenang secara langsung melalui program Cakap Club selama tiga bulan penuh. . Cukup dengan mengikuti kelas selama 7 pertemuan berturut-turut Anda sudah bisa menguasai materi dan mendapatkan sertifikat!</p>",
+            "price_normal": "0.00",
+            "price": "600000.00",
+            "status": true,
+            "pmo_id": "cepat0010029000681149397",
+            "tag": [
+                {
+                    "id": 641,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                },
+                {
+                    "id": 1703,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 1704,
+                    "tag": "Profesional",
+                    "title": "Profesional"
+                }
+            ],
+            "slug": "cepat-cakap-mandarin-khusus-job-interview-3-bulan",
+            "linier": false,
+            "max_quota": 1000,
+            "current_quota": 1000,
+            "enrolled": false,
+            "creator": "Cakap"
+        },
+        {
+            "id": 661,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Cepat Cakap Mandarin Khusus Job Interview",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/33665cf2bf0c40bd9782e4cd87f11677.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/c1cba61d54054c1c9a2a866694a61b13.jpg",
+            "abstract": "Kursus kilat untuk pemahaman materi job interview dalam bahasa mandarin, ikuti 7 hari kelas berturut-turut dan dapatkan sertifikat!",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 1302,
+                    "subject_id": 91,
+                    "subject_name": "Bahasa Inggris"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 3858,
+                    "tag": "Fresh Graduate",
+                    "title": "Fresh Graduate"
+                }
+            ],
+            "description": "<p>Kelas bahasa Mandarin khusus untuk Anda yang membutuhkan kiat-kiat dan materi terkait interview seperti: apa saja yang harus disiapkan dan bagaimana lancar berbahasa Mandarin saat interview kerja dengan tetap tenang secara langsung melalui program Cakap Club selama satu bulan penuh. . Cukup dengan mengikuti kelas selama 7 pertemuan berturut-turut Anda sudah bisa menguasai materi dan mendapatkan sertifikat!</p>",
+            "price_normal": "0.00",
+            "price": "250000.00",
+            "status": true,
+            "pmo_id": "cepat0010029000680149395",
+            "tag": [
+                {
+                    "id": 640,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                },
+                {
+                    "id": 1701,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 1702,
+                    "tag": "Profesional",
+                    "title": "Profesional"
+                }
+            ],
+            "slug": "cepat-cakap-mandarin-khusus-job-interview",
+            "linier": false,
+            "max_quota": 1000,
+            "current_quota": 1000,
+            "enrolled": false,
+            "creator": "Cakap"
+        },
+        {
+            "id": 659,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Cepat Cakap Inggris Khusus Front Office (3 bulan)",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/5a156c6e43754018901869c69203e547.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/ae634a6ee7954dcda2c49d151ad48350.jpg",
+            "abstract": "Kursus kilat untuk pemahaman materi pelayanan pelanggan dalam bahasa inggris, ikuti 7 hari kelas berturut-turut dan dapatkan sertifikat!",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 1294,
+                    "subject_id": 91,
+                    "subject_name": "Bahasa Inggris"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 3907,
+                    "tag": "Hotel & Restoran",
+                    "title": "Hotel & Restoran"
+                }
+            ],
+            "description": "<p>Apabila Anda termasuk ke dalam kategori customer service, kasir, resepsionis, dan front office lainnya, Anda cocok mengambil kelas bahasa Inggris ini . dengan kelas bahasa Inggris ini Anda bisa belajar bahasa Inggris setiap hari selama tiga bulan penuh dengan materi khusus yang sudah dibuat oleh tenaga profesional tentang bagaimana cara Anda menghadapi pekerjaanmu dalam bahasa Inggris! . Cukup dengan mengikuti kelas sebanyak 7x berturut-turut, Anda sudah bisa mendapat ilmu baru dan juga sertifikat</p>",
+            "price_normal": "0.00",
+            "price": "600000.00",
+            "status": true,
+            "pmo_id": "cepat0010029000679149393",
+            "tag": [
+                {
+                    "id": 638,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                },
+                {
+                    "id": 1697,
+                    "tag": "Profesional",
+                    "title": "Profesional"
+                }
+            ],
+            "slug": "cepat-cakap-inggris-khusus-front-office-3-bulan",
+            "linier": false,
+            "max_quota": 1000,
+            "current_quota": 1000,
+            "enrolled": false,
+            "creator": "Cakap"
+        },
+        {
+            "id": 658,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Cepat Cakap Inggris Khusus Front Office",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/3e6385ed623b433db9fa3af9caa9eac1.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/aacd220b6c9a4653bfd1b7ed95019245.jpg",
+            "abstract": "Kursus kilat untuk pemahaman materi pelayanan pelanggan dalam bahasa inggris, ikuti 7 hari kelas berturut-turut dan dapatkan sertifikat!",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 1293,
+                    "subject_id": 91,
+                    "subject_name": "Bahasa Inggris"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 3857,
+                    "tag": "Hotel & Restoran",
+                    "title": "Hotel & Restoran"
+                }
+            ],
+            "description": "<p>Apabila Anda termasuk ke dalam kategori customer service, kasir, resepsionis, dan front office lainnya, Anda cocok mengambil kelas bahasa Inggris ini . dengan kelas bahasa Inggris ini Anda bisa belajar bahasa Inggris setiap hari selama satu bulan penuh dengan materi khusus yang sudah dibuat oleh tenaga profesional tentang bagaimana cara Anda menghadapi pekerjaanmu dalam bahasa Inggris! . Cukup dengan mengikuti kelas sebanyak 7x berturut-turut, Anda sudah bisa mendapat ilmu baru dan juga sertifikat</p>",
+            "price_normal": "0.00",
+            "price": "250000.00",
+            "status": true,
+            "pmo_id": "cepat0010029000678149390",
+            "tag": [
+                {
+                    "id": 637,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                },
+                {
+                    "id": 1696,
+                    "tag": "Profesional",
+                    "title": "Profesional"
+                }
+            ],
+            "slug": "cepat-cakap-inggris-khusus-front-office",
+            "linier": false,
+            "max_quota": 1000,
+            "current_quota": 1000,
+            "enrolled": false,
+            "creator": "Cakap"
+        },
+        {
+            "id": 656,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Cepat Cakap Inggris Khusus Presentasi (3 bulan)",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/a107a27761584a22ab3a7dde1b9aeed7.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/0563a080a12148eaa21645205434f299.jpg",
+            "abstract": "Kursus kilat untuk pemahaman materi presentasi dalam bahasa inggris, ikuti 7 hari kelas berturut-turut dan dapatkan sertifikat!",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 1291,
+                    "subject_id": 91,
+                    "subject_name": "Bahasa Inggris"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 3906,
+                    "tag": "Tour Guide dan Pariwisata",
+                    "title": "Tour Guide dan Pariwisata"
+                }
+            ],
+            "description": "<p>kelas bahasa Inggris khusus untuk Anda yang ingin belajar dan memperlancar cara presentasi dalam bahasa Inggris! kelas akan dilakukan melalui Cakap Club di aplikasi Cakap yang bisa Anda akses selama tiga bulan penuh setiap harinya. . Cukup dengan mengikuti kelas selama tujuh pertemuan berturut-turut Anda bisa mendapat ilmu baru dan sertifikat!</p>",
+            "price_normal": "0.00",
+            "price": "600000.00",
+            "status": true,
+            "pmo_id": "cepat0010029000677149388",
+            "tag": [
+                {
+                    "id": 635,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                },
+                {
+                    "id": 1693,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 1694,
+                    "tag": "Profesional",
+                    "title": "Profesional"
+                }
+            ],
+            "slug": "cepat-cakap-inggris-khusus-presentasi-3-bulan",
+            "linier": false,
+            "max_quota": 1000,
+            "current_quota": 1000,
+            "enrolled": false,
+            "creator": "Cakap"
+        },
+        {
+            "id": 651,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Kelas Kilat: Melamar Kerja Secara Online",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/ea831c2aa59c4bf6a63e25af3321cf7b.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/f8df15563cd84acd89cc340dcd95655d.jpg",
+            "abstract": "4 jam praktek menulis CV, menulis lamaran kerja, dan mengirim berkas secara online. Langsung klaim insentif setelah selesai kelas!",
+            "sale_status": "",
+            "rating": "5.00",
+            "subject": [
+                {
+                    "id": 529,
+                    "subject_id": 123,
+                    "subject_name": "Pendidikan & Pelatihan"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 3311,
+                    "tag": "bahasa inggris",
+                    "title": "bahasa inggris"
+                },
+                {
+                    "id": 3312,
+                    "tag": "pencari kerja",
+                    "title": "pencari kerja"
+                },
+                {
+                    "id": 3313,
+                    "tag": "job hunting",
+                    "title": "job hunting"
+                },
+                {
+                    "id": 3589,
+                    "tag": "Fresh Graduate",
+                    "title": "Fresh Graduate"
+                },
+                {
+                    "id": 3934,
+                    "tag": "Fresh Graduate",
+                    "title": "Fresh Graduate"
+                }
+            ],
+            "description": "<p><strong>Kelas Kilat: Melamar Kerja Secara Online</strong> adalah kelas singkat yang disusun khusus untuk penerima kartu pra kerja. Materi berfokus ke cara mencari info lowongan kerja terbaru secara online, menghindari tipuan lowongan kerja palsu, &nbsp;menyusun dan mempercantik CV, menulis surat lamaran kerja dan mengirimkan lamaran kerja secara online.</p><p>Kelas diajar oleh fasilitator yang kompeten. Materi kelas bisa diakses selamanya! Setelah menyelesaikan kelas, penerima kartu pra kerja akan memperoleh insentif Rp600.000 per bulan selama 4 bulan dari kartu pra kerja.</p><p>&nbsp;</p><p>&nbsp;</p>",
+            "price_normal": "150000.00",
+            "price": "50000.00",
+            "status": true,
+            "pmo_id": "kelas0010109000669149343",
+            "tag": [
+                {
+                    "id": 617,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                },
+                {
+                    "id": 877,
+                    "tag": "Profesional",
+                    "title": "Profesional"
+                },
+                {
+                    "id": 878,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 879,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                }
+            ],
+            "slug": "kelas-kilat-melamar-kerja-secara-online",
+            "linier": true,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": "PT Yureka Edukasi Cipta"
+        },
+        {
+            "id": 650,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Cepat Cakap Inggris Khusus Ojek Online",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/637b006667cc4c6195ebf8d4cafd4b2f.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/3ac950a8b0b7445481ddab2c0c474655.jpg",
+            "abstract": "kursus Inggris kilat khusus ojol  melalui program Cakap Club Cukup ikut kelas selama 7 pertemuan langsung mendapatkan sertfikat belajar.",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 1297,
+                    "subject_id": 91,
+                    "subject_name": "Bahasa Inggris"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 3307,
+                    "tag": "ojol",
+                    "title": "ojol"
+                },
+                {
+                    "id": 3308,
+                    "tag": "bahasa inggris",
+                    "title": "bahasa inggris"
+                },
+                {
+                    "id": 3309,
+                    "tag": "kursus kilat",
+                    "title": "kursus kilat"
+                },
+                {
+                    "id": 3843,
+                    "tag": "Transportasi Online",
+                    "title": "Transportasi Online"
+                }
+            ],
+            "description": "<p>Cepat Cakap Inggris kilat khusus pengemudi ojol yang ingin mempelajari bahasa Inggris sederhana untuk sehari-hari melalui program Cakap Club dengan akses selama tiga bulan penuh! Cukup dengan mengikuti kelas selama 7 pertemuan berturut-turut, Anda bisa langsung mendapatkan sertfikat belajar.</p>",
+            "price_normal": "0.00",
+            "price": "250000.00",
+            "status": true,
+            "pmo_id": "cepat0010029000672149372",
+            "tag": [
+                {
+                    "id": 616,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                }
+            ],
+            "slug": "cepat-cakap-inggris-khusus-ojek-online",
+            "linier": false,
+            "max_quota": 1000,
+            "current_quota": 1000,
+            "enrolled": false,
+            "creator": "Cakap"
+        },
+        {
+            "id": 648,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Facebook Marketing for Business",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/139ead60e4e44821a74b3fd25ce43a16.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/f79a70def248430e8ef73afd6fb4aa27.jpg",
+            "abstract": "Pelatihan ini untuk Anda yang ingin mengembangkan bisnis yang lebih luas dengan menggunakan Facebook Page sebagai media pemasaran.",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 372,
+                    "subject_id": 122,
+                    "subject_name": "Digital & Teknologi"
+                },
+                {
+                    "id": 515,
+                    "subject_id": 99,
+                    "subject_name": "Bisnis Manajemen"
+                },
+                {
+                    "id": 516,
+                    "subject_id": 107,
+                    "subject_name": "Kreatif"
+                },
+                {
+                    "id": 517,
+                    "subject_id": 124,
+                    "subject_name": "Soft Skills"
+                },
+                {
+                    "id": 518,
+                    "subject_id": 126,
+                    "subject_name": "Media & Komunikasi"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 3283,
+                    "tag": "Digital Marketing",
+                    "title": "Digital Marketing"
+                },
+                {
+                    "id": 3284,
+                    "tag": "Social Media",
+                    "title": "Social Media"
+                },
+                {
+                    "id": 3285,
+                    "tag": "Facebook",
+                    "title": "Facebook"
+                },
+                {
+                    "id": 3286,
+                    "tag": "Pemasaran",
+                    "title": "Pemasaran"
+                },
+                {
+                    "id": 3287,
+                    "tag": "Marketing",
+                    "title": "Marketing"
+                },
+                {
+                    "id": 3288,
+                    "tag": "Media Social",
+                    "title": "Media Social"
+                },
+                {
+                    "id": 3289,
+                    "tag": "Facebook Fanpage",
+                    "title": "Facebook Fanpage"
+                },
+                {
+                    "id": 3290,
+                    "tag": "Facebook Ads",
+                    "title": "Facebook Ads"
+                },
+                {
+                    "id": 3305,
+                    "tag": "Belajar Marketing",
+                    "title": "Belajar Marketing"
+                },
+                {
+                    "id": 3306,
+                    "tag": "Facebook Marketing",
+                    "title": "Facebook Marketing"
+                },
+                {
+                    "id": 3915,
+                    "tag": "Digital & Teknologi",
+                    "title": "Digital & Teknologi"
+                },
+                {
+                    "id": 3916,
+                    "tag": "Bisnis Rumahan",
+                    "title": "Bisnis Rumahan"
+                }
+            ],
+            "description": "<p>Pelatihan ini cocok untuk Anda yang ingin mengembangkan jangkauan pasar yang lebih luas atau ingin menjual produk offline Anda. Media sosial merupakan langkah tepat untuk menunjang strategi pemasaran Anda. Salah satunya yaitu dengan memanfaatkan Facebook Page (halaman) dan beriklan. Jika Anda mebuatnya untuk kebutuhan bisnis, maka dalam hal ini Anda selangkah lebih maju untuk membawa bisnis Anda makin berkembang dan tumbuh.</p><p>Melalui pelatihan ini, <i>Facebook Marketing for Business, </i>Peserta akan dibimbing untuk membuat halaman facebook dan lebih efektif mempromosikan produk/jasa menggunakan facebook. Modul pelatihan selain memaparkan konsep DIgital Marketing dan Tehnik Copywriting, Peserta juga akan diberikan pelatihan bagaimana cara membuat halaman Facebook (Fanpage) dan bagaimana cara beriklan di Facebook.</p>",
+            "price_normal": "1500000.00",
+            "price": "950000.00",
+            "status": true,
+            "pmo_id": "faceb0010110000208147512",
+            "tag": [
+                {
+                    "id": 608,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                },
+                {
+                    "id": 609,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 610,
+                    "tag": "Profesional",
+                    "title": "Profesional"
+                },
+                {
+                    "id": 611,
+                    "tag": "Orangtua",
+                    "title": "Orangtua"
+                },
+                {
+                    "id": 612,
+                    "tag": "Guru",
+                    "title": "Guru"
+                },
+                {
+                    "id": 613,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 614,
+                    "tag": "Mitra",
+                    "title": "Mitra"
+                }
+            ],
+            "slug": "facebook-marketing-for-business",
+            "linier": false,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": "Data Academy"
+        },
+        {
+            "id": 625,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "JUARA BICARA Bersama Zivanna Letisha",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/b705669961dc4313bfd182c73769d97a.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/04ab2243f25447fe98670b305673b87c.jpg",
+            "abstract": "Program ini akan melatih anda untuk memiliki kemampuan berbicara (komunikasi) yang baik, untuk keberhasilan di dunia kerja.",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 334,
+                    "subject_id": 126,
+                    "subject_name": "Media & Komunikasi"
+                },
+                {
+                    "id": 598,
+                    "subject_id": 124,
+                    "subject_name": "Soft Skills"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 3370,
+                    "tag": "Pendidikan & Pelatihan",
+                    "title": "Pendidikan & Pelatihan"
+                },
+                {
+                    "id": 3371,
+                    "tag": "Soft Skill",
+                    "title": "Soft Skill"
+                },
+                {
+                    "id": 3403,
+                    "tag": "featured",
+                    "title": "featured"
+                },
+                {
+                    "id": 3607,
+                    "tag": "Fresh Graduate",
+                    "title": "Fresh Graduate"
+                },
+                {
+                    "id": 3608,
+                    "tag": "Tour Guide dan Pariwisata",
+                    "title": "Tour Guide dan Pariwisata"
+                },
+                {
+                    "id": 3609,
+                    "tag": "Transportasi Online",
+                    "title": "Transportasi Online"
+                },
+                {
+                    "id": 3610,
+                    "tag": "Guru & Instruktur Lepasan",
+                    "title": "Guru & Instruktur Lepasan"
+                }
+            ],
+            "description": "<p>Program ini akan dilaksanan dengan cara berinteraksi langsung dengan Zivanna Letisha secara Online melalui Aplikasi ZOOM Meeting. Jadi selain mendengarkan materi, anda juga bisa melakukan tanya jawab langsung dengan Zivanna Letisha. Di program ini kita akan belajar mengenai hal-hal yang dibutuhkan agar bisa mempunyai kemampuan berbicara/berkomunikasi dalam dunia profesional.</p>",
+            "price_normal": "600000.00",
+            "price": "300000.00",
+            "status": true,
+            "pmo_id": "juara0010073000695149446",
+            "tag": [
+                {
+                    "id": 536,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                },
+                {
+                    "id": 537,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 538,
+                    "tag": "Profesional",
+                    "title": "Profesional"
+                },
+                {
+                    "id": 539,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "slug": "juara-bicara-bagin-1-cara-juara-membangun-rasa-percaya-diri",
+            "linier": false,
+            "max_quota": 50,
+            "current_quota": 45,
+            "enrolled": false,
+            "creator": "Sekolah.mu X Kita Juara"
+        },
+        {
+            "id": 623,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Kewirausahaan - Menyusun Rencana Bisnis",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/b05c237e26b14ceaa80343bb049075fd.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/45a0dfb009f4436188bc6de8b42fe864.jpg",
+            "abstract": "Program ini memberikan wawasan dan latihan untuk menyusun rencana bisnis usaha kecil dan menengah secara komprehensif.",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 331,
+                    "subject_id": 99,
+                    "subject_name": "Bisnis Manajemen"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 4292,
+                    "tag": "kewirausahaan",
+                    "title": "kewirausahaan"
+                },
+                {
+                    "id": 4293,
+                    "tag": "rencana bisnis",
+                    "title": "rencana bisnis"
+                },
+                {
+                    "id": 4294,
+                    "tag": "pemasaran",
+                    "title": "pemasaran"
+                },
+                {
+                    "id": 4295,
+                    "tag": "keuangan",
+                    "title": "keuangan"
+                },
+                {
+                    "id": 4296,
+                    "tag": "ide bisnis",
+                    "title": "ide bisnis"
+                },
+                {
+                    "id": 4508,
+                    "tag": "Digital & Teknologi",
+                    "title": "Digital & Teknologi"
+                },
+                {
+                    "id": 4509,
+                    "tag": "Dakwah dan Da'i",
+                    "title": "Dakwah dan Da'i"
+                },
+                {
+                    "id": 4510,
+                    "tag": "Bisnis Rumahan",
+                    "title": "Bisnis Rumahan"
+                },
+                {
+                    "id": 4511,
+                    "tag": "Guru & Instruktur Lepasan",
+                    "title": "Guru & Instruktur Lepasan"
+                },
+                {
+                    "id": 4705,
+                    "tag": "featured",
+                    "title": "featured"
+                }
+            ],
+            "description": "<p>Program ini didesain untuk meningkatkan kemampuan dan memberikan pola pikir berwirausaha bagi peserta dengan meningkatkan keterampilan dan perilaku wirausaha melalui penemuan dan presentasi ide kreatif dan inovasi berwirausaha, penyusunan ide berwirausaha, perencanaan dan pengorganisasian berwirausaha, pelaksanaan dan pengendalian berwirausaha, serta monitoring dan tindak lanjut dalam berwirausaha.</p>",
+            "price_normal": "1000000.00",
+            "price": "300000.00",
+            "status": true,
+            "pmo_id": "kewir0010119000668149335",
+            "tag": [
+                {
+                    "id": 530,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                },
+                {
+                    "id": 531,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 532,
+                    "tag": "Profesional",
+                    "title": "Profesional"
+                }
+            ],
+            "slug": "kewirausahaan-penyusunan-rencana-bisnis",
+            "linier": false,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": "Sekolah Vokasi UGM"
+        },
+        {
+            "id": 620,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Manajemen Warung Kopi",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/20124b79f74d4f6dacf64987f766f93c.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/1cabb0e73db34a418320beaf7e77d062.jpg",
+            "abstract": "Cita-cita mempunyai warung kopi sendiri? Ikuti kelas ini untuk mendapat berbagai tips manajemen warung kopi impianmu. ",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 326,
+                    "subject_id": 98,
+                    "subject_name": "Bisnis Layanan"
+                },
+                {
+                    "id": 327,
+                    "subject_id": 99,
+                    "subject_name": "Bisnis Manajemen"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 3169,
+                    "tag": "kopi",
+                    "title": "kopi"
+                },
+                {
+                    "id": 3170,
+                    "tag": "warung",
+                    "title": "warung"
+                },
+                {
+                    "id": 3171,
+                    "tag": "cafe",
+                    "title": "cafe"
+                },
+                {
+                    "id": 3172,
+                    "tag": "kafe",
+                    "title": "kafe"
+                },
+                {
+                    "id": 3173,
+                    "tag": "usaha",
+                    "title": "usaha"
+                },
+                {
+                    "id": 3174,
+                    "tag": "bisnis",
+                    "title": "bisnis"
+                },
+                {
+                    "id": 3175,
+                    "tag": "manajemen",
+                    "title": "manajemen"
+                },
+                {
+                    "id": 3407,
+                    "tag": "featured",
+                    "title": "featured"
+                },
+                {
+                    "id": 3490,
+                    "tag": "Hotel & Restoran",
+                    "title": "Hotel & Restoran"
+                },
+                {
+                    "id": 3491,
+                    "tag": "Tour Guide dan Pariwisata",
+                    "title": "Tour Guide dan Pariwisata"
+                },
+                {
+                    "id": 3492,
+                    "tag": "Transportasi Online",
+                    "title": "Transportasi Online"
+                },
+                {
+                    "id": 3493,
+                    "tag": "Bisnis Rumahan",
+                    "title": "Bisnis Rumahan"
+                }
+            ],
+            "description": "<p>Bisnis kedai kopi sekarang sedang sangat meningkat pesat di Indonesia, dan dengan itu akan ada lebih banyak peluang pekerjaan untuk manajemen warung kopi. Di program ini, anda akan diajar langsung oleh CEO kafe Gordi (sebuah kafe sukses di daerah Jakarta Selatan) mengenai keterampilan yang diperlukan pengusaha kopi handal.</p>",
+            "price_normal": "299000.00",
+            "price": "200000.00",
+            "status": true,
+            "pmo_id": "manaj0010007000036146997",
+            "tag": [
+                {
+                    "id": 521,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 522,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 523,
+                    "tag": "Profesional",
+                    "title": "Profesional"
+                },
+                {
+                    "id": 524,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                }
+            ],
+            "slug": "manajemen-warung-kopi",
+            "linier": false,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": "Sekolah.mu x Gordi"
+        },
+        {
+            "id": 615,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Belajar Programming: Intro to Website",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/0f34a229f7bf4240bb262ef60c6b4330.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/e95f8078b0374d508122066d29fb4073.jpg",
+            "abstract": "Program ini mengajakmu berkenalan dengan dunia programming dan membuat website sederhana dengan cara yang menyenangkan! ",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 310,
+                    "subject_id": 120,
+                    "subject_name": "Teknologi (IT)"
+                },
+                {
+                    "id": 311,
+                    "subject_id": 122,
+                    "subject_name": "Digital & Teknologi"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 3147,
+                    "tag": "prakerja",
+                    "title": "prakerja"
+                },
+                {
+                    "id": 3148,
+                    "tag": "teknologi",
+                    "title": "teknologi"
+                },
+                {
+                    "id": 3149,
+                    "tag": "website",
+                    "title": "website"
+                },
+                {
+                    "id": 3150,
+                    "tag": "coding",
+                    "title": "coding"
+                },
+                {
+                    "id": 3151,
+                    "tag": "programming",
+                    "title": "programming"
+                },
+                {
+                    "id": 3323,
+                    "tag": "Digital & Teknologi",
+                    "title": "Digital & Teknologi"
+                },
+                {
+                    "id": 3387,
+                    "tag": "programming",
+                    "title": "programming"
+                },
+                {
+                    "id": 3388,
+                    "tag": "coding",
+                    "title": "coding"
+                },
+                {
+                    "id": 3389,
+                    "tag": "membuat website",
+                    "title": "membuat website"
+                },
+                {
+                    "id": 3413,
+                    "tag": "featured",
+                    "title": "featured"
+                },
+                {
+                    "id": 3559,
+                    "tag": "Fresh Graduate",
+                    "title": "Fresh Graduate"
+                },
+                {
+                    "id": 3560,
+                    "tag": "Bisnis Rumahan",
+                    "title": "Bisnis Rumahan"
+                },
+                {
+                    "id": 3561,
+                    "tag": "Guru & Instruktur Lepasan",
+                    "title": "Guru & Instruktur Lepasan"
+                }
+            ],
+            "description": "<p>Untuk peserta yang belum pernah belajar programming sebelumnya, dapat memulai dari program ini dulu, di mana peserta dapat mengenal dunia pemrograman komputer diawali dengan belajar membuat website dengan cara yang mudah dan menyenangkan dengan dipandu oleh Coach Clevio yang berpengalaman mengajar dengan metode coaching. Di akhir program peserta sudah memiliki tools yang dibutuhkan untuk membuat website sederhana, dan diharapkan memiliki kepercayaan diri lebih untuk mendalami dunia pemrograman komputer, hingga mengembangkan karirnya dengan keahlian teknologi digital.&nbsp;</p>",
+            "price_normal": "0.00",
+            "price": "600000.00",
+            "status": true,
+            "pmo_id": "belaj0010031000209147517",
+            "tag": [
+                {
+                    "id": 510,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                },
+                {
+                    "id": 511,
+                    "tag": "Profesional",
+                    "title": "Profesional"
+                },
+                {
+                    "id": 512,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 513,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 514,
+                    "tag": "Orangtua",
+                    "title": "Orangtua"
+                },
+                {
+                    "id": 515,
+                    "tag": "Mitra",
+                    "title": "Mitra"
+                }
+            ],
+            "slug": "belajar-programming-intro-to-website",
+            "linier": true,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": "Clevio Coder Camp"
+        },
+        {
+            "id": 614,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Membuat Website Gratis dengan Google Sites dan Google Drive",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/4760bcf444914ef4b5df028ba4377df9.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/234162a1e48e4e74971382c6d3b12bf1.jpg",
+            "abstract": "Paham Google Drive & Google Sites untuk buat situs gratis keperluan CV & resume kerja agar menarik & mudah diakses, tanpa bantuan IT.\n\t\t\t\t\t\t",
+            "sale_status": "",
+            "rating": "5.00",
+            "subject": [
+                {
+                    "id": 300,
+                    "subject_id": 122,
+                    "subject_name": "Digital & Teknologi"
+                },
+                {
+                    "id": 301,
+                    "subject_id": 108,
+                    "subject_name": "Literasi Media"
+                },
+                {
+                    "id": 302,
+                    "subject_id": 126,
+                    "subject_name": "Media & Komunikasi"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 3126,
+                    "tag": "Lamar kerja",
+                    "title": "Lamar kerja"
+                },
+                {
+                    "id": 3127,
+                    "tag": "CV",
+                    "title": "CV"
+                },
+                {
+                    "id": 3128,
+                    "tag": "Resume",
+                    "title": "Resume"
+                },
+                {
+                    "id": 3129,
+                    "tag": "Website gratis",
+                    "title": "Website gratis"
+                },
+                {
+                    "id": 3130,
+                    "tag": "Google drive ",
+                    "title": "Google drive "
+                },
+                {
+                    "id": 3131,
+                    "tag": "Google sites ",
+                    "title": "Google sites "
+                },
+                {
+                    "id": 3424,
+                    "tag": "featured",
+                    "title": "featured"
+                },
+                {
+                    "id": 3484,
+                    "tag": "Digital & Teknologi",
+                    "title": "Digital & Teknologi"
+                }
+            ],
+            "description": "<p>Dengan mengikuti program ini, peserta akan mengetahui kegunaan Google Drive dan Google Sites untuk membuat Website gratis untuk keperluan membuat CV dan Resume melamar pekerjaan, sehingga lebih menarik perhatian tampilan, mudah diakses dan lebih informatif. Peserta akan memiliki kemampuan dalam membuat situs pribadi berisi CV/portfolio dan resume tanpa bantuan IT. Peserta akan mempelajari bagaimana menggunakan Google Drive sebagai tempat penyimpanan files dan bagaimana membuat situs dengan Google Sites secara gratis dan mudah.</p>",
+            "price_normal": "300000.00",
+            "price": "150000.00",
+            "status": true,
+            "pmo_id": "creat0010007000658149305",
+            "tag": [
+                {
+                    "id": 509,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                },
+                {
+                    "id": 703,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 704,
+                    "tag": "Profesional",
+                    "title": "Profesional"
+                },
+                {
+                    "id": 705,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "slug": "membuat-website-gratis-dengan-google-sites-drive",
+            "linier": true,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": "Sekolah.mu"
+        },
+        {
+            "id": 612,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Pengenalan Tools & Function Microsoft Excel",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/85bc40860e2b4ae4ac76cf79eeeffe9e.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/8f6f03e1db31426db2591280a7df2c2e.jpg",
+            "abstract": "Pada materi ini peserta akan mempelajari tentang pengenalan tools Microsoft Excel dan pengunaan rumus sederhana sampai pembuatan chart.",
+            "sale_status": "",
+            "rating": null,
+            "subject": [],
+            "program_tag": [
+                {
+                    "id": 3117,
+                    "tag": "excel",
+                    "title": "excel"
+                },
+                {
+                    "id": 3118,
+                    "tag": "office",
+                    "title": "office"
+                },
+                {
+                    "id": 3119,
+                    "tag": "administratif",
+                    "title": "administratif"
+                },
+                {
+                    "id": 3901,
+                    "tag": "Digital & Teknologi",
+                    "title": "Digital & Teknologi"
+                }
+            ],
+            "description": "<p>Microsoft Excel adalah aplikasi pengolah angka yang dapat mengelola dan memvisualisasikan data pada baris &amp; kolom.&nbsp;</p><p>Pelatihan Pengenalan Tools &amp; Function Microsoft Excel, akan mempelajari tentang pengenalan fitur &amp; rumus sederhana sampai dengan memvisualisasikan data menggunakan chart.&nbsp;</p><p>Pelatihan akan dilaksanakan dalam bentuk pembelajaran online dan webinar (menggunakan aplikasi Zoom), dan akan diberikan sertifikat di akhir pelatihan.&nbsp;</p><p>Durasi pelatihan diperkirakan dapat diselesaikan selama 5 Jam.&nbsp;</p><p>Pelatihan dilaksanakan mulai tanggal 4 Mei 2020 (untuk sesi webinar/zoom).</p>",
+            "price_normal": "350000.00",
+            "price": "250000.00",
+            "status": true,
+            "pmo_id": "micro0010025000647149279",
+            "tag": [
+                {
+                    "id": 507,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                }
+            ],
+            "slug": "pengenalan-tools-function-microsoft-excel-8",
+            "linier": false,
+            "max_quota": 10,
+            "current_quota": 8,
+            "enrolled": false,
+            "creator": "BINUS CENTER"
+        },
+        {
+            "id": 602,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Jago Presentasi di Mana Saja",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/d79196a9553d4546ae376095219dd8aa.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/caedbf260a7b4c5c8712df47c38f7671.jpg",
+            "abstract": "Karier setiap orang dipengaruhi kemampuan presentasinya. Mulai dari presentasi diri saat wawancara kerja, sampai dengan presentasi bisnis.  ",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 264,
+                    "subject_id": 126,
+                    "subject_name": "Media & Komunikasi"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 3339,
+                    "tag": "presentasi",
+                    "title": "presentasi"
+                },
+                {
+                    "id": 3340,
+                    "tag": "presentation",
+                    "title": "presentation"
+                },
+                {
+                    "id": 3341,
+                    "tag": "jago presentasi",
+                    "title": "jago presentasi"
+                },
+                {
+                    "id": 3342,
+                    "tag": "soft skills",
+                    "title": "soft skills"
+                },
+                {
+                    "id": 3343,
+                    "tag": "prakerja",
+                    "title": "prakerja"
+                },
+                {
+                    "id": 3423,
+                    "tag": "featured",
+                    "title": "featured"
+                },
+                {
+                    "id": 3485,
+                    "tag": "Fresh Graduate",
+                    "title": "Fresh Graduate"
+                },
+                {
+                    "id": 4212,
+                    "tag": "Fresh Graduate",
+                    "title": "Fresh Graduate"
+                }
+            ],
+            "description": "<p>Mengikuti kelas Jago Presentasi di Mana Saja bukan saja mendapatkan tips melakukan presentasi di setting pekerjaan. Teknik yang diajarkan di sini memungkinkan setiap peserta mempraktikkan kemampuan presentasi di hampir semua konteks kehidupan. Mulai dari saat melamar pekerjaan, membangun bisnis, menyampaikan laporan, memberi penyuluhan, dan bahkan menjelaskan ide kepada teman atau rekan kerja.</p>",
+            "price_normal": "300000.00",
+            "price": "150000.00",
+            "status": true,
+            "pmo_id": "prese0010007000200147494",
+            "tag": [
+                {
+                    "id": 482,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                },
+                {
+                    "id": 483,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 484,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 485,
+                    "tag": "Profesional",
+                    "title": "Profesional"
+                }
+            ],
+            "slug": "jago-presentasi-di-mana-saja",
+            "linier": true,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": "Sekolah.mu"
+        },
+        {
+            "id": 585,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Mendapatkan Dollar Pertama dari Freelance",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/b753e64292134db6b09206515bad0e6e.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/b27d32bcf7b940a9a569763a43eb708d.jpg",
+            "abstract": "Kelas ini akan membahas kemampuan yang dibutuhkan untuk jadi freelancer yang sukses dan mampu bernegosiasi dengan baik. Ayo gabung!",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 222,
+                    "subject_id": 124,
+                    "subject_name": "Soft Skills"
+                },
+                {
+                    "id": 523,
+                    "subject_id": 96,
+                    "subject_name": "Bimbingan Konseling"
+                },
+                {
+                    "id": 524,
+                    "subject_id": 103,
+                    "subject_name": "Hukum"
+                },
+                {
+                    "id": 525,
+                    "subject_id": 104,
+                    "subject_name": "Keuangan & Akuntansi"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 3415,
+                    "tag": "featured",
+                    "title": "featured"
+                },
+                {
+                    "id": 3647,
+                    "tag": "Fresh Graduate",
+                    "title": "Fresh Graduate"
+                },
+                {
+                    "id": 3684,
+                    "tag": "Tour Guide dan Pariwisata",
+                    "title": "Tour Guide dan Pariwisata"
+                },
+                {
+                    "id": 3685,
+                    "tag": "Guru & Instruktur Lepasan",
+                    "title": "Guru & Instruktur Lepasan"
+                }
+            ],
+            "description": "<p>Banyak orang yang tertarik untuk menjadi seorang <i>freelancer</i> dan kebutuhan akan <i>freelancer</i> pun saat ini tergolong tinggi. Pertimbangan utama yang umum ditemui di balik pilihan bekerja secara lepas adalah fleksibilitas mengatur waktu karena bisa bekerja dimanapun dan kapanpun (<i>borderless</i>). Selain itu, bekerja secara lepas cenderung lebih mengutamakan keahlian (<i>skill</i>) dibanding kualifikasi pendidikan. Dengan demikian, tips tentang bagaimana memulai karir <i>freelance</i> akan sangat dibutuhkan. <i>Freelancer</i> merupakan pekerja yang terikat dengan hubungan kerja dengan jangka waktu yang relatif singkat. Seorang <i>freelancer</i> menerima penerimaan upah sesuai dengan banyaknya hari/jam kerja atau banyaknya muatan pekerjaan yang disediakan. Kelas ini akan membahas <i>skill</i> bisnis yang dibutuhkan untuk jadi <i>freelancer</i> yang sukses mulai dari <i>skill</i> negosiasi harga dengan <i>client</i>, cara membuat <i>invoice</i> dan perjanjian <i>freelance</i>, hingga cara <i>setup</i> akun pembayaran <i>online</i> seperti Paypal dan Payoneer.&nbsp;</p>",
+            "price_normal": "600000.00",
+            "price": "250000.00",
+            "status": true,
+            "pmo_id": "menda0010121000215147531",
+            "tag": [
+                {
+                    "id": 450,
+                    "tag": "Mitra",
+                    "title": "Mitra"
+                },
+                {
+                    "id": 662,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 663,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 664,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                }
+            ],
+            "slug": "mendapatkan-dollar-pertama-dari-freelance-1",
+            "linier": false,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": "skillify"
+        },
+        {
+            "id": 584,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Fotografi untuk Pemula",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/cd9cb9513e9d4a51aea10756dd4d8f6b.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/44e711a3686f401da8a8fc627f8d24ed.jpg",
+            "abstract": "Kamu akan belajar fotografi dasar & aplikasinya. Memotret dengan baik, tools, fitur, hingga genre dalam fotografi. Ayok segera bergabung!",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 218,
+                    "subject_id": 125,
+                    "subject_name": "Desain & Seni"
+                },
+                {
+                    "id": 219,
+                    "subject_id": 122,
+                    "subject_name": "Digital & Teknologi"
+                },
+                {
+                    "id": 498,
+                    "subject_id": 126,
+                    "subject_name": "Media & Komunikasi"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 3331,
+                    "tag": "Desain & Seni",
+                    "title": "Desain & Seni"
+                },
+                {
+                    "id": 3332,
+                    "tag": "Digital & Teknologi",
+                    "title": "Digital & Teknologi"
+                },
+                {
+                    "id": 3410,
+                    "tag": "featured",
+                    "title": "featured"
+                },
+                {
+                    "id": 3470,
+                    "tag": "prakerja-gojek-delete",
+                    "title": "prakerja-gojek-delete"
+                },
+                {
+                    "id": 3677,
+                    "tag": "Hotel & Restoran",
+                    "title": "Hotel & Restoran"
+                },
+                {
+                    "id": 3678,
+                    "tag": "Transportasi Online",
+                    "title": "Transportasi Online"
+                },
+                {
+                    "id": 3679,
+                    "tag": "Bisnis Rumahan",
+                    "title": "Bisnis Rumahan"
+                }
+            ],
+            "description": "<p>Kebutuhan foto di era digital saat ini sangat tinggi. Seni fotografi kini tidak lagi identik dengan hobi, tetapi juga menjadi aspek yang penting dalam penyampaian informasi, baik untuk keperluan estetika maupun bisnis dengan sentuhan seni visual. Hal ini membuat fotografer sangat dibutuhkan. Oleh karenanya, menjadi fotografer kini bisa dikatakan merupakan pilihan karier yang menjanjikan. Kelas ini akan menjelaskan dasar dasar fotografi dan aplikasinya. Cara memotret dengan baik, <i>tools</i> dalam fotografi, fitur, hingga <i>genre</i> dalam fotografi akan dibahas tuntas dalam kelas ini. Komunikasi visual menjadi hal yang sangat penting dalam penyampaian informasi secara eksplisit maupun implisit sehingga dasar-dasar akan fotografi sangat diperlukan.</p>",
+            "price_normal": "600000.00",
+            "price": "250000.00",
+            "status": true,
+            "pmo_id": "fotog0010121000214147529",
+            "tag": [
+                {
+                    "id": 448,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 449,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                }
+            ],
+            "slug": "fotografi-untuk-pemula-1",
+            "linier": false,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": "skillify"
+        },
+        {
+            "id": 580,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Belajar Programming Tanpa Coding",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/0e152bff72d742e78adb4937cf4639ff.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/498da2f3e80143e1bea35734903bfe91.jpg",
+            "abstract": "Kelas ini akan membahas cara menggunakan bahasa pemrograman sampai bisa menjadi suatu karya dan memberikanmu penghasilan.",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 211,
+                    "subject_id": 122,
+                    "subject_name": "Digital & Teknologi"
+                },
+                {
+                    "id": 526,
+                    "subject_id": 126,
+                    "subject_name": "Media & Komunikasi"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 3344,
+                    "tag": "Digital & Teknologi",
+                    "title": "Digital & Teknologi"
+                },
+                {
+                    "id": 3650,
+                    "tag": "Fresh Graduate",
+                    "title": "Fresh Graduate"
+                },
+                {
+                    "id": 3651,
+                    "tag": "Guru & Instruktur",
+                    "title": "Guru & Instruktur"
+                },
+                {
+                    "id": 4707,
+                    "tag": "featured",
+                    "title": "featured"
+                }
+            ],
+            "description": "<p>Dunia akan selalu berkembang dan begitupun dengan teknologi. Oleh karena itu, dimulai dari saat ini, hingga 10 tahun ke depan, kebutuhan seorang <i>programmer</i> akan terus meningkat. Kelas ini ditujukan untuk mengenalkan dunia <i>programming</i> yang diawali dengan pembelajaran <i>scratch, </i>sehingga di akhir pembelajaran, orang yang mengikuti kelas ini dapat membuat suatu proyek unik kombinasi dari seluruh materi yang ada dan memahami dasar dari<i> logical thinking</i> sebagai bekal seorang <i>programmer</i> di masa depan.</p><p>Kelas ini akan membahas cara menggunakan bahasa pemrograman <i>scratch</i> sampai bisa menjadi suatu karya. Dimulai dari pengenalan <i>scratch, </i>penjelasan logika sederhana, seperti perulangan atau <i>looping</i>, kondisi jika-maka atau<i> if-else</i>, operator matematika, sampai logika kompleks. Selain itu, akan dijelaskan juga cara membuat animasi, permainan sederhana, <i>sound</i>, menggambar, <i>custom sprite,</i> dan diakhiri dengan <i>final test</i>.&nbsp;</p>",
+            "price_normal": "600000.00",
+            "price": "250000.00",
+            "status": true,
+            "pmo_id": "belaj0010121000213147527",
+            "tag": [
+                {
+                    "id": 442,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                },
+                {
+                    "id": 443,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 680,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                }
+            ],
+            "slug": "belajar-programming-tanpa-coding",
+            "linier": true,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": "skillify"
+        },
+        {
+            "id": 578,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Cara Cepat Dapat Kerja Pertama",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/dee04df282f949b29d3623c6971c27de.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/1e318d255d984cb2b5b43d850950ee10.jpg",
+            "abstract": "Kelas ini akan membahas tahapan-tahapan rekrutmen umum di perusahaan Indonesia dan multinational. Dapatkan tips terbaik langsung dari ahli.",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 207,
+                    "subject_id": 123,
+                    "subject_name": "Pendidikan & Pelatihan"
+                },
+                {
+                    "id": 527,
+                    "subject_id": 96,
+                    "subject_name": "Bimbingan Konseling"
+                },
+                {
+                    "id": 528,
+                    "subject_id": 99,
+                    "subject_name": "Bisnis Manajemen"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 3687,
+                    "tag": "Fresh Graduate",
+                    "title": "Fresh Graduate"
+                }
+            ],
+            "description": "<p>Banyak<i> fresh graduate</i> yang kesulitan mencari kerja pertama. Beberapa dari mereka bahkan merasa frustasi dan akhirnya depresi karena menganggur lebih dari 6 bulan. Padahal, mereka merupakan lulusan di universitas terbaik dengan IPK yang bagus.&nbsp;</p><p>Banyak faktor yang mempengaruhi seorang pelamar tak kunjung diterima kerja, mulai dari tidak terpenuhinya syarat-syarat administratif, kemampuan yang dimiliki pelamar, hingga idealisme yang ditanamkan di diri pelamar. Tidak terpenuhinya satu atau beberapa persyaratan ini dapat berakibat pada tidak diterimanya lamaran pekerjaan yang dimasukkan ke suatu instansi. Arahan yang tepat dalam mempersiapkan segala kebutuhan untuk mendaftar kerja akan sangat membantu pelamar agar diterima di instansi atau perusahaan yang diinginkan.</p><p>Kelas ini akan membahas tahapan-tahapan rekrutmen umum di perusahaan Indonesia dan multinational, tips membuat cv, cara mencari informasi lowongan kerja, membuat profil di job portal seperti jobstreet dan linkedin, tips&nbsp;<i>interview</i>&nbsp;hingga hal-hal yang harus diperhatikan sebelum memutuskan untuk mengambil pekerjaan.</p>",
+            "price_normal": "600000.00",
+            "price": "250000.00",
+            "status": true,
+            "pmo_id": "carac0010121000206147507",
+            "tag": [
+                {
+                    "id": 670,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 671,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 672,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                }
+            ],
+            "slug": "cara-cepat-dapat-kerja-pertama-1",
+            "linier": false,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": "skillify"
+        },
+        {
+            "id": 574,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Komunikasi Pemasaran",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/5c771856bf4d4e96a3226bed8edabc4d.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/5b11fe2b2a84492cab8ef8cb07f06cb9.jpg",
+            "abstract": "Mampu membedakan dan memilih program promosi dan media yang efektif untuk meningkatkkan ekuitas merek.",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 196,
+                    "subject_id": 99,
+                    "subject_name": "Bisnis Manajemen"
+                },
+                {
+                    "id": 197,
+                    "subject_id": 126,
+                    "subject_name": "Media & Komunikasi"
+                },
+                {
+                    "id": 860,
+                    "subject_id": 122,
+                    "subject_name": "Digital & Teknologi"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 3046,
+                    "tag": "Komunikasi Pemasaran",
+                    "title": "Komunikasi Pemasaran"
+                },
+                {
+                    "id": 3047,
+                    "tag": "Integrated Marketing Communication",
+                    "title": "Integrated Marketing Communication"
+                },
+                {
+                    "id": 4068,
+                    "tag": "Bisnis Rumahan",
+                    "title": "Bisnis Rumahan"
+                }
+            ],
+            "description": "<p>Program ini memberikan pemahaman tentang proses komunikasi yang efektif untuk meningkatkan Brand Equity, melalui penentuan program IMC (Komunikasi Pemasaran Terpadu) yang tepat. Pembahasan meliputi perancangan tujuan IMC, Program IMC (periklanan, promosi penjualan, publisitas, public relations, direct marketing, personal selling dan word-of-mouth marketing), mulai dari penciptaan pesan, pemilihan media, sampai dengan pemilihan event yang sesuai dengan kondisi perusahaan.&nbsp;</p>",
+            "price_normal": "600000.00",
+            "price": "300000.00",
+            "status": true,
+            "pmo_id": "komun0010125000216147533",
+            "tag": [
+                {
+                    "id": 435,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 436,
+                    "tag": "Profesional",
+                    "title": "Profesional"
+                },
+                {
+                    "id": 437,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                }
+            ],
+            "slug": "integrated-marketing-communication",
+            "linier": true,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": "LMP2M STIM YKPN Yogyakarta"
+        },
+        {
+            "id": 573,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Desain Poster dengan Canva di Android",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/54ace16d75a24920989cc5ea1c49ceb6.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/aa29a77a35ee48788f4a15332dfbcd26.jpg",
+            "abstract": "Poster, media promosi produk/jasa/acara. Tips desain poster di HP, sehingga anda bisa desain poster sendiri.\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 192,
+                    "subject_id": 125,
+                    "subject_name": "Desain & Seni"
+                },
+                {
+                    "id": 194,
+                    "subject_id": 126,
+                    "subject_name": "Media & Komunikasi"
+                },
+                {
+                    "id": 520,
+                    "subject_id": 121,
+                    "subject_name": "Teknologi Terapan"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 3291,
+                    "tag": "canva",
+                    "title": "canva"
+                },
+                {
+                    "id": 3292,
+                    "tag": "poster",
+                    "title": "poster"
+                },
+                {
+                    "id": 3293,
+                    "tag": "jualan",
+                    "title": "jualan"
+                },
+                {
+                    "id": 3294,
+                    "tag": "bisnis",
+                    "title": "bisnis"
+                },
+                {
+                    "id": 3295,
+                    "tag": "marketing",
+                    "title": "marketing"
+                },
+                {
+                    "id": 3296,
+                    "tag": "usaha",
+                    "title": "usaha"
+                },
+                {
+                    "id": 3297,
+                    "tag": "brosur",
+                    "title": "brosur"
+                },
+                {
+                    "id": 3298,
+                    "tag": "desain",
+                    "title": "desain"
+                },
+                {
+                    "id": 3299,
+                    "tag": "kreatif",
+                    "title": "kreatif"
+                },
+                {
+                    "id": 3300,
+                    "tag": "prakerja",
+                    "title": "prakerja"
+                },
+                {
+                    "id": 3301,
+                    "tag": "sekolah cikal",
+                    "title": "sekolah cikal"
+                },
+                {
+                    "id": 3302,
+                    "tag": "warung",
+                    "title": "warung"
+                },
+                {
+                    "id": 3303,
+                    "tag": "umkm",
+                    "title": "umkm"
+                },
+                {
+                    "id": 3304,
+                    "tag": "online",
+                    "title": "online"
+                },
+                {
+                    "id": 3412,
+                    "tag": "featured",
+                    "title": "featured"
+                },
+                {
+                    "id": 3482,
+                    "tag": "Desain dan Seni",
+                    "title": "Desain dan Seni"
+                },
+                {
+                    "id": 3483,
+                    "tag": "Desain & Seni",
+                    "title": "Desain & Seni"
+                }
+            ],
+            "description": "<p>Poster adalah media yang diperlukan untuk promosi produk/jasa baru dengan memberikan informasi mengenai produk/jasa tersebut. Dengan cara ini bisa memperluas wilayah pemasaran, sehingga produk/jasa tersebut dikenal oleh lebih banyak orang. Peserta bisa membuat poster yang menarik dengan menggunakan aplikasi Canva di handphone sendiri, yang bisa dipromosikan di medsos atau cetak.</p>",
+            "price_normal": "300000.00",
+            "price": "150000.00",
+            "status": true,
+            "pmo_id": "membu0010007000660149312",
+            "tag": [
+                {
+                    "id": 434,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                },
+                {
+                    "id": 681,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 682,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 683,
+                    "tag": "Profesional",
+                    "title": "Profesional"
+                }
+            ],
+            "slug": "desain-poster-dengan-canva-di-android",
+            "linier": true,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": "Sekolah.mu"
+        },
+        {
+            "id": 559,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Jago Speaking Level 1",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/921cab48600f43679a429e99cb39a4d7.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/2ac94f2333334da994d0a0cb65a72654.jpg",
+            "abstract": "Program Jago Speaking English Level 1 yang dirancang oleh master of speaking  agar kamu fasih berbahasa Inggris. Selamat Belajar !",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 173,
+                    "subject_id": 91,
+                    "subject_name": "Bahasa Inggris"
+                },
+                {
+                    "id": 174,
+                    "subject_id": 123,
+                    "subject_name": "Pendidikan & Pelatihan"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 3000,
+                    "tag": "Belajar bahasa inggris",
+                    "title": "Belajar bahasa inggris"
+                },
+                {
+                    "id": 3001,
+                    "tag": "kursus bahasa inggris",
+                    "title": "kursus bahasa inggris"
+                },
+                {
+                    "id": 3002,
+                    "tag": "cara belajar bahasa inggris",
+                    "title": "cara belajar bahasa inggris"
+                },
+                {
+                    "id": 3003,
+                    "tag": "cara cepat belajar bahasa inggris",
+                    "title": "cara cepat belajar bahasa inggris"
+                },
+                {
+                    "id": 3004,
+                    "tag": "pelajaran bahasa inggris",
+                    "title": "pelajaran bahasa inggris"
+                },
+                {
+                    "id": 3005,
+                    "tag": "belajar bahasa inggris untuk pemula",
+                    "title": "belajar bahasa inggris untuk pemula"
+                },
+                {
+                    "id": 3006,
+                    "tag": "belajar bahasa inggris cepat",
+                    "title": "belajar bahasa inggris cepat"
+                },
+                {
+                    "id": 3007,
+                    "tag": "belajar bahasa inggris percakapan",
+                    "title": "belajar bahasa inggris percakapan"
+                },
+                {
+                    "id": 3008,
+                    "tag": "cara cepat bisa bahasa inggris",
+                    "title": "cara cepat bisa bahasa inggris"
+                },
+                {
+                    "id": 3580,
+                    "tag": "Tour Guide dan Pariwisata",
+                    "title": "Tour Guide dan Pariwisata"
+                }
+            ],
+            "description": "<p>Program Speaking English online level 1 yang dirancang oleh master of speaking dengan fokus materi pada pengaplikasian speaking yang terintegrasi dengan gramar dan pronunciation sehingga peserta mampu meningkatkan rasa percaya diri untuk mempraktekan bahasa inggris, mampu menggunakan phrase dan kalimat sederhana untuk menyatakan sebuah ide, gagasan, maupun pertanyaan dan mampu menghindari kesalahan umum serta merespon pertanyaan dengan pola sederhana.&nbsp; Setelah memilih program ini di platform Sekolah.mu, kamu akan mendapatkan akses link private langsung dengan mentor. Ikuti program ini dan dapatkan kursus yang intensif bersama mentor ya!</p><p>&nbsp;</p>",
+            "price_normal": "615000.00",
+            "price": "299500.00",
+            "status": true,
+            "pmo_id": "jagos0010067000651149289",
+            "tag": [
+                {
+                    "id": 396,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 397,
+                    "tag": "Orangtua",
+                    "title": "Orangtua"
+                },
+                {
+                    "id": 398,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 399,
+                    "tag": "Profesional",
+                    "title": "Profesional"
+                },
+                {
+                    "id": 400,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                }
+            ],
+            "slug": "jago-speaking-2-minggu",
+            "linier": false,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": "Jagobahasa.com"
+        },
+        {
+            "id": 552,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Kelas Kilat Bahasa Inggris Dasar Karyawan",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/b49ff4a5ada0421a996e9ab9554739fe.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/f6c49166e1184ed9b8fbcd24d86f184a.jpg",
+            "abstract": "2 jam mempelajari bahasa inggris dari nol untuk dunia kerja / karyawan kantoran. Langsung klaim insentif setelah selesai kelas.",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 267,
+                    "subject_id": 91,
+                    "subject_name": "Bahasa Inggris"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 2926,
+                    "tag": "bahasa inggris",
+                    "title": "bahasa inggris"
+                },
+                {
+                    "id": 3096,
+                    "tag": "yec",
+                    "title": "yec"
+                },
+                {
+                    "id": 3345,
+                    "tag": "basic english",
+                    "title": "basic english"
+                },
+                {
+                    "id": 3346,
+                    "tag": "english",
+                    "title": "english"
+                },
+                {
+                    "id": 3347,
+                    "tag": "karyawan",
+                    "title": "karyawan"
+                },
+                {
+                    "id": 3348,
+                    "tag": "kerja",
+                    "title": "kerja"
+                },
+                {
+                    "id": 3349,
+                    "tag": "prakerja",
+                    "title": "prakerja"
+                },
+                {
+                    "id": 3350,
+                    "tag": "kantor",
+                    "title": "kantor"
+                },
+                {
+                    "id": 3351,
+                    "tag": "inggris",
+                    "title": "inggris"
+                },
+                {
+                    "id": 3352,
+                    "tag": "bahasa",
+                    "title": "bahasa"
+                },
+                {
+                    "id": 3420,
+                    "tag": "featured",
+                    "title": "featured"
+                },
+                {
+                    "id": 3942,
+                    "tag": "Fresh Graduate",
+                    "title": "Fresh Graduate"
+                }
+            ],
+            "description": "<p>Kelas bahasa Inggris dasar karyawan adalah kelas singkat yang disusun khusus untuk penerima kartu prakerja. Materi didesain bagi penerima kartu prakerja yang ingin belajar bahasa inggris dari nol terkait dunia kerja.&nbsp;</p><p>Kelas diajar oleh ahli, bersertifikat dan materi bisa diakses selamanya.&nbsp;</p><p>Setelah menyelesaikan kelas, penerima kartu prakerja akan memperoleh insentif Rp600.000 per bulan selama 4 bulan dari kartu prakerja.</p>",
+            "price_normal": "150000.00",
+            "price": "50000.00",
+            "status": true,
+            "pmo_id": "kelas0010109000652149291",
+            "tag": [
+                {
+                    "id": 369,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                },
+                {
+                    "id": 488,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 489,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 490,
+                    "tag": "Profesional",
+                    "title": "Profesional"
+                }
+            ],
+            "slug": "kelas-kilat-bahasa-inggris-dasar-karyawan",
+            "linier": true,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": "PT Yureka Edukasi Cipta"
+        },
+        {
+            "id": 549,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Kelas Kilat Bahasa Inggris Job Interview",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/c8afdd213d3b4c818bba385b7fe39df3.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/fda42a5dc81b465bb7c68a02db2969cf.jpg",
+            "abstract": "2 jam praktek menulis CV, menulis lamaran kerja dan mengirim berkas secara online. Langsung klaim insentif setelah selesai kelas\n",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 268,
+                    "subject_id": 91,
+                    "subject_name": "Bahasa Inggris"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 3097,
+                    "tag": "bahasa inggris",
+                    "title": "bahasa inggris"
+                },
+                {
+                    "id": 3098,
+                    "tag": "english",
+                    "title": "english"
+                },
+                {
+                    "id": 3099,
+                    "tag": "interview",
+                    "title": "interview"
+                },
+                {
+                    "id": 3100,
+                    "tag": "wawancara",
+                    "title": "wawancara"
+                },
+                {
+                    "id": 3101,
+                    "tag": "yec",
+                    "title": "yec"
+                },
+                {
+                    "id": 3632,
+                    "tag": "Fresh Graduate",
+                    "title": "Fresh Graduate"
+                },
+                {
+                    "id": 3633,
+                    "tag": "Tour Guide dan Pariwisata",
+                    "title": "Tour Guide dan Pariwisata"
+                },
+                {
+                    "id": 3634,
+                    "tag": "Transportasi Online",
+                    "title": "Transportasi Online"
+                },
+                {
+                    "id": 3635,
+                    "tag": "Guru & Instruktur Lepasan",
+                    "title": "Guru & Instruktur Lepasan"
+                }
+            ],
+            "description": "<p>Kelas Job Interview bahasa Inggris adalah kelas singkat yang disusun khusus untuk penerima kartu pra kerja.&nbsp;</p><p>Setelah mengikuti kelas ini, peserta akan memperoleh</p><ul><li>CV dalam bahasa Inggris</li><li>Surat lamaran kerja dalam bahasa Inggris</li><li>Kesiapan interview dalam bahasa Inggris</li><li>Insentif Rp600.000 per bulan selama 4 bulan dari kartu pra kerja.&nbsp;</li></ul><p>Kelas diajar oleh ahli, bersertifikat dan materi bisa diakses selamanya.</p>",
+            "price_normal": "150000.00",
+            "price": "50000.00",
+            "status": true,
+            "pmo_id": "kelas0010109000654149296",
+            "tag": [
+                {
+                    "id": 366,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                },
+                {
+                    "id": 494,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 495,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 496,
+                    "tag": "Profesional",
+                    "title": "Profesional"
+                }
+            ],
+            "slug": "kelas-bahasa-inggris-job-interview",
+            "linier": true,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": "PT Yureka Edukasi Cipta (YEC)"
+        },
+        {
+            "id": 544,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Penguasaan Mahir Bahasa Asing (Inggris)",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/90c20b809e684cfbad0e92f7e2185332.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/90c20b809e684cfbad0e92f7e2185332.jpg",
+            "abstract": "Tingkatkan daya saing Anda untuk memasuki dunia kerja dengan meningkatkan kemahiran Bahasa Inggris Anda di program ini! LIVE COACH!",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 1106,
+                    "subject_id": 50,
+                    "subject_name": "Bahasa Inggris"
+                },
+                {
+                    "id": 1107,
+                    "subject_id": 91,
+                    "subject_name": "Bahasa Inggris"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 2913,
+                    "tag": "inggris ",
+                    "title": "inggris "
+                },
+                {
+                    "id": 2914,
+                    "tag": "english",
+                    "title": "english"
+                },
+                {
+                    "id": 2915,
+                    "tag": "conversation",
+                    "title": "conversation"
+                },
+                {
+                    "id": 2916,
+                    "tag": "general english",
+                    "title": "general english"
+                },
+                {
+                    "id": 2917,
+                    "tag": "public speaking ",
+                    "title": "public speaking "
+                },
+                {
+                    "id": 3266,
+                    "tag": "arsikei",
+                    "title": "arsikei"
+                }
+            ],
+            "description": "<p>VIRTUAL LEARNING ONLINE GROUP, adalah Kelas Online yang dapat digunakan oleh peserta kelas Bahasa Inggris guna mendukung peserta dalam upaya meningkatkan tingkat kemahiran bahasa Inggris guna menghadapi dunia kerja.&nbsp;</p><p>&nbsp;</p><p>Menjawab tantangan kondisi pembelajaran dimana peserta berada di daerah terpencil dan tidak bisa mengikuti kelas tatap muka dikarenakan jarak dan waktu, kesediaan pelatihan, memberikan solusi bagi peserta yang tidak memiliki akses ke kursus bahasa Inggris atau tidak punya waktu untuk menghadiri kelas tatap muka atau konvensional.</p><p>&nbsp;</p><p>Di akhir pelatihan akan terdapat mini test serta kegiatan <i>vlogging</i> menggunakan Bahasa Inggris dengan topik yang ditentukan.&nbsp;</p><p>&nbsp;</p><p>Peserta diharapkan dapat memasuki dunia kerja dengan daya saing tinggi dengan menguasai Bahasa Inggris setelah menyelesaikan pelatihan ini.</p>",
+            "price_normal": "1500000.00",
+            "price": "499000.00",
+            "status": true,
+            "pmo_id": "",
+            "tag": [
+                {
+                    "id": 359,
+                    "tag": "Murid",
+                    "title": "Murid"
+                },
+                {
+                    "id": 360,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 361,
+                    "tag": "Profesional",
+                    "title": "Profesional"
+                }
+            ],
+            "slug": "penguasaan-mahir-bahasa-asing-ingris-",
+            "linier": false,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": "ARSIKEI"
+        },
+        {
+            "id": 523,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Aneka Resep Jajanan Rumahan",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/12dd503cddd745a3b8414de5e31fbf79.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/34ae4bd8a0444360883066891aecd705.jpg",
+            "abstract": "Hai peserta program prakerja! Kelas ini cocok untuk kamu yang ingin memulai bisnis kuliner jajanan rumahan. Selamat belajar!",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 88,
+                    "subject_id": 99,
+                    "subject_name": "Bisnis Manajemen"
+                },
+                {
+                    "id": 508,
+                    "subject_id": 100,
+                    "subject_name": "Ekonomi"
+                },
+                {
+                    "id": 509,
+                    "subject_id": 104,
+                    "subject_name": "Keuangan & Akuntansi"
+                },
+                {
+                    "id": 510,
+                    "subject_id": 111,
+                    "subject_name": "Matematika"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 3089,
+                    "tag": "kuliner",
+                    "title": "kuliner"
+                },
+                {
+                    "id": 3090,
+                    "tag": "jajanan",
+                    "title": "jajanan"
+                },
+                {
+                    "id": 3091,
+                    "tag": "resep",
+                    "title": "resep"
+                },
+                {
+                    "id": 3320,
+                    "tag": "Bisnis Layanan",
+                    "title": "Bisnis Layanan"
+                },
+                {
+                    "id": 3476,
+                    "tag": "Bisnis Rumahan",
+                    "title": "Bisnis Rumahan"
+                },
+                {
+                    "id": 3657,
+                    "tag": "Hotel & Restoran",
+                    "title": "Hotel & Restoran"
+                },
+                {
+                    "id": 3658,
+                    "tag": "Dakwah dan Da'i",
+                    "title": "Dakwah dan Da'i"
+                },
+                {
+                    "id": 3659,
+                    "tag": "Transportasi Online",
+                    "title": "Transportasi Online"
+                }
+            ],
+            "description": "<p>Di kelas ini, peserta program prakerja bisa menambah pembendaharaan resep jajanan rumahan yang sederhana dan mudah dipraktikan di rumah. Selain itu, peserta juga bisa menyusun rencana harga jual produk kuliner jajanan rumahan dengan mempertimbangkan aspek modal dan segala aspek pendukung.</p>",
+            "price_normal": "200000.00",
+            "price": "150000.00",
+            "status": true,
+            "pmo_id": "aneka0010007000662149320",
+            "tag": [
+                {
+                    "id": 304,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                },
+                {
+                    "id": 633,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 634,
+                    "tag": "Orangtua",
+                    "title": "Orangtua"
+                }
+            ],
+            "slug": "aneka-resep-jajanan-rumahan",
+            "linier": true,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": "Sekolah.mu"
+        },
+        {
+            "id": 521,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Editing Video (Power Director) untuk Jualan Online",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/f9a9affc56ac47458ef4a36a3e201970.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/d5f97a40abde409eb6bff06471c45dc9.jpg",
+            "abstract": "Pelajari cara membuat video produk Anda menjadi lebih berkualitas dan menarik minat pembeli hanya dengan aplikasi handphone Power Director!",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 86,
+                    "subject_id": 122,
+                    "subject_name": "Digital & Teknologi"
+                },
+                {
+                    "id": 588,
+                    "subject_id": 99,
+                    "subject_name": "Bisnis Manajemen"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 3181,
+                    "tag": "digital marketing",
+                    "title": "digital marketing"
+                },
+                {
+                    "id": 3182,
+                    "tag": "internet marketing",
+                    "title": "internet marketing"
+                },
+                {
+                    "id": 3183,
+                    "tag": "toko online",
+                    "title": "toko online"
+                },
+                {
+                    "id": 3184,
+                    "tag": "website",
+                    "title": "website"
+                },
+                {
+                    "id": 3185,
+                    "tag": "pemasaran digital",
+                    "title": "pemasaran digital"
+                },
+                {
+                    "id": 3186,
+                    "tag": "pemasaran internet",
+                    "title": "pemasaran internet"
+                },
+                {
+                    "id": 3187,
+                    "tag": "fotografi",
+                    "title": "fotografi"
+                },
+                {
+                    "id": 3188,
+                    "tag": "videografi",
+                    "title": "videografi"
+                },
+                {
+                    "id": 3189,
+                    "tag": "Leap Pro",
+                    "title": "Leap Pro"
+                },
+                {
+                    "id": 3921,
+                    "tag": "Desain dan seni",
+                    "title": "Desain dan seni"
+                }
+            ],
+            "description": "<p>Salah satu cara untuk mendapatkan kepercayaan konsumen adalah dengan video produk. Misalnya untuk menunjukkan cara pemakaian, orisinalitas produk, kelebihan produk, dll.</p><p>&nbsp;</p><p>Pelaku usaha sering merasa awam dan kurang mampu menghasilkan video produk yang baik, padahal dengan modal teknologi editing dari aplikasi HP, hal ini sangat memungkinkan untuk dilakukan.</p><p>&nbsp;</p><p>Materi yang diajarkan pada pelatihan ini meliputi : pembuatan email, install aplikasi Power Director, pengenalan fitur-fitur power director, cara editing (memotong, menambah gambar, transisi dan penambahan musik).</p><p>&nbsp;</p><p>Lewat pelatihan ini diharapkan peserta dapat memiliki video produk yang baik untuk diupload di media sosial usahanya.</p>",
+            "price_normal": "0.00",
+            "price": "499999.00",
+            "status": true,
+            "pmo_id": "kelas0010082000223147559",
+            "tag": [
+                {
+                    "id": 302,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                },
+                {
+                    "id": 862,
+                    "tag": "Profesional",
+                    "title": "Profesional"
+                },
+                {
+                    "id": 863,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 864,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "slug": "editing-video-power-director-untuk-jualan-online",
+            "linier": true,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": "LKP LEAP"
+        },
+        {
+            "id": 518,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Editing Foto (Snapseed) untuk Jualan Online",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/06b06e78623a4bc08c40f29cd79f7355.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/55cd70dfe922490da9541aa7f4d7c61e.jpg",
+            "abstract": "Pelajari cara membuat foto produk Anda menjadi lebih berkualitas dan menarik minat pembeli hanya dengan aplikasi handphone Snapseed!",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 80,
+                    "subject_id": 122,
+                    "subject_name": "Digital & Teknologi"
+                },
+                {
+                    "id": 802,
+                    "subject_id": 99,
+                    "subject_name": "Bisnis Manajemen"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 2884,
+                    "tag": "photography",
+                    "title": "photography"
+                },
+                {
+                    "id": 2885,
+                    "tag": "graphic design",
+                    "title": "graphic design"
+                },
+                {
+                    "id": 2935,
+                    "tag": "digital marketing",
+                    "title": "digital marketing"
+                },
+                {
+                    "id": 2936,
+                    "tag": "internet marketing",
+                    "title": "internet marketing"
+                },
+                {
+                    "id": 2937,
+                    "tag": "fotografi",
+                    "title": "fotografi"
+                },
+                {
+                    "id": 2938,
+                    "tag": "videografi",
+                    "title": "videografi"
+                },
+                {
+                    "id": 2939,
+                    "tag": "website",
+                    "title": "website"
+                },
+                {
+                    "id": 2940,
+                    "tag": "toko online",
+                    "title": "toko online"
+                },
+                {
+                    "id": 2941,
+                    "tag": "pemasaran digital",
+                    "title": "pemasaran digital"
+                },
+                {
+                    "id": 2942,
+                    "tag": "pemsaran internet",
+                    "title": "pemsaran internet"
+                },
+                {
+                    "id": 3180,
+                    "tag": "Leap Pro",
+                    "title": "Leap Pro"
+                },
+                {
+                    "id": 3920,
+                    "tag": "Desain dan seni",
+                    "title": "Desain dan seni"
+                }
+            ],
+            "description": "<p>Modal utama dari pemasaran produk secara online adalah pada foto produk yang yang berkualitas dan menarik, sehingga dapat menarik minat pembeli.&nbsp;</p><p>Pelaku usaha sering merasa awam dan kurang mampu menghasilkan foto produk yang baik, padahal dengan modal teknologi editing dari aplikasi HP, hal ini sangat memungkinkan untuk dilakukan.&nbsp;</p><p>Materi yang diajarkan pada pelatihan ini meliputi : pembuatan email, install aplikasi snapseed, pengenalan fitur-fitur Snapseed, editing warna dan filter, cara menambahkan teks, watermark dan bingkai pada foto, tips komposisi warna, letak teks atau bingkai foto.</p>",
+            "price_normal": "0.00",
+            "price": "499999.00",
+            "status": true,
+            "pmo_id": "kelas0010082000222147557",
+            "tag": [
+                {
+                    "id": 296,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                },
+                {
+                    "id": 749,
+                    "tag": "Profesional",
+                    "title": "Profesional"
+                },
+                {
+                    "id": 750,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 751,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "slug": "editing-foto-snapseed-untuk-jualan-online",
+            "linier": true,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": "LKP LEAP"
+        },
+        {
+            "id": 509,
+            "category": 4,
+            "category_name": "PRAKERJA",
+            "type": 1,
+            "name": "Berjualan dan Jadi Top Seller di Shopee",
+            "avatar": "https://d33sow78tsfzyk.cloudfront.net/upload/c8ddf0ff237446589073bcc63720156b.jpg",
+            "badge": "https://d33sow78tsfzyk.cloudfront.net/upload/8ba5289b34424929a17a38a61ce207a9.jpg",
+            "abstract": "Pelajari cara meningkatkan omzet usaha Anda menggunakan Shopee untuk mendapatkan lebih banyak konsumen dan memperluas area pemasarannya!",
+            "sale_status": "",
+            "rating": null,
+            "subject": [
+                {
+                    "id": 69,
+                    "subject_id": 99,
+                    "subject_name": "Bisnis Manajemen"
+                },
+                {
+                    "id": 140,
+                    "subject_id": 122,
+                    "subject_name": "Digital & Teknologi"
+                }
+            ],
+            "program_tag": [
+                {
+                    "id": 2943,
+                    "tag": "digital marketing",
+                    "title": "digital marketing"
+                },
+                {
+                    "id": 2944,
+                    "tag": "internet marketing",
+                    "title": "internet marketing"
+                },
+                {
+                    "id": 2945,
+                    "tag": "website",
+                    "title": "website"
+                },
+                {
+                    "id": 2946,
+                    "tag": "toko online",
+                    "title": "toko online"
+                },
+                {
+                    "id": 2947,
+                    "tag": "pemasaran internet",
+                    "title": "pemasaran internet"
+                },
+                {
+                    "id": 2948,
+                    "tag": "pemasaran digital",
+                    "title": "pemasaran digital"
+                },
+                {
+                    "id": 3179,
+                    "tag": "Leap Pro",
+                    "title": "Leap Pro"
+                },
+                {
+                    "id": 3624,
+                    "tag": "Digital & Teknologi",
+                    "title": "Digital & Teknologi"
+                },
+                {
+                    "id": 3625,
+                    "tag": "Tour Guide dan Pariwisata",
+                    "title": "Tour Guide dan Pariwisata"
+                },
+                {
+                    "id": 3626,
+                    "tag": "Bisnis Rumahan",
+                    "title": "Bisnis Rumahan"
+                },
+                {
+                    "id": 3627,
+                    "tag": "Transportasi Online",
+                    "title": "Transportasi Online"
+                },
+                {
+                    "id": 4708,
+                    "tag": "featured",
+                    "title": "featured"
+                }
+            ],
+            "description": "<p>Pelatihan bagi pelaku usaha yang ingin menggunakan platform marketplace Shopee untuk pemasarannya.&nbsp;</p><p>Dengan menggunakan aplikasi Shopee, maka sebuah usaha dapat memperluas area pemasarannya secara online pada marketplace tersebut, agar mendapatkan lebih banyak konsumen dan meningkatkan omzetnya.&nbsp;</p><p>Materi yang diajarkan pada pelatihan ini meliputi : pembuatan email, install aplikasi Shopee, pengenalan fitur-fitur Shopee, cara melengkapi konten produk, pengaturan ekspedisi, proses pesanan dan melakukan konfirmasi. Setelah hal-hal dasar tersebut dikuasai, peserta juga akan diarahkan untuk dapat menarget sebagai top seller di platform Shopee.</p>",
+            "price_normal": "0.00",
+            "price": "499999.00",
+            "status": true,
+            "pmo_id": "kelas0010082000221147551",
+            "tag": [
+                {
+                    "id": 275,
+                    "tag": "Prakerja",
+                    "title": "Prakerja"
+                },
+                {
+                    "id": 740,
+                    "tag": "Profesional",
+                    "title": "Profesional"
+                },
+                {
+                    "id": 741,
+                    "tag": "Mahasiswa",
+                    "title": "Mahasiswa"
+                },
+                {
+                    "id": 742,
+                    "tag": "Murid",
+                    "title": "Murid"
+                }
+            ],
+            "slug": "berjualan-dan-jadi-top-seller-di-shoppee",
+            "linier": true,
+            "max_quota": 0,
+            "current_quota": 0,
+            "enrolled": false,
+            "creator": "LKP LEAP"
+        }
+    ],
+    "message": "OK"
+}
